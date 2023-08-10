@@ -1,36 +1,52 @@
+
 from bs4 import BeautifulSoup
 import requests
 from urllib.parse import quote
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+import time
 
 class MyntraScraper:
+    def __init__(self, headers):
+        self.headers = headers
+        self.session = requests.Session()  # Create a session
+        self.driver = self._init_selenium()
+
+    def _init_selenium(self):
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")  # Run in headless mode (no browser window)
+        driver = webdriver.Chrome(options=chrome_options)
+        return driver
+
     def get_product_links(self, search_query):
         encoded_20 = quote(search_query)
         encoded_hy = '-'.join(quote(part) for part in search_query.split())
         url = f"https://www.myntra.com/{encoded_hy}?rawQuery={encoded_20}"
         print(url)
 
-        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"}
-        response = requests.get(url, headers=headers, timeout=15)
-
-        response = requests.get(url)
-        # response = requests.get("https://www.google.com")
-        print(response.status_code)
-
-        soup = BeautifulSoup(response.content, 'html.parser')
+        response = self.session.get(url, headers=self.headers, timeout=15)
+        self.driver.get(url)
+        time.sleep(5)  # Wait for the content to load (you might need to adjust this delay)
+        page_source = self.driver.page_source
+        soup = BeautifulSoup(page_source, 'html.parser')
         
         links = []
         ul_results = soup.find("ul", {"class": "results-base"})
+        print(ul_results)
         if ul_results:
             for li_element in ul_results.find_all("li", {"class": "product-base"}):
                 link_element = li_element.find("a")
                 if link_element and "href" in link_element.attrs:
                     links.append(link_element["href"])
                     print(link_element)
+                if len(links) >= 2:
+                    break
         return links
 
     def scrape_product_info(self, link):
-        response = requests.get(link)
-        soup = BeautifulSoup(response.content, 'html.parser')
+        self.driver.get(link)
+        page_source = self.driver.page_source
+        soup = BeautifulSoup(page_source, 'html.parser')
         
         metadata = {}
         metadata['name'] = soup.find("div", {"class": "pdp-name"}).get_text()
@@ -63,16 +79,21 @@ class MyntraScraper:
                 metadata['image_urls'].append(image_url)
 
         return metadata
-
+    
 def main():
     search_query = input("Enter search query: ")
     
-    scraper = MyntraScraper()
+    custom_user_agent = "YourCustomUserAgent"
+    headers = {"User-Agent": custom_user_agent}
+    scraper = MyntraScraper(headers)
 
     product_links = scraper.get_product_links(search_query)
-    for link in product_links[:2]:
+    for link in product_links:
         metadata = scraper.scrape_product_info(link)
         print(metadata)
+
+    # Close the Selenium driver
+    scraper.driver.quit()
 
 if __name__ == "__main__":
     main()

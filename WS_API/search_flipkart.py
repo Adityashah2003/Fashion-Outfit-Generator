@@ -19,14 +19,26 @@ def get_product_info(product_links):
 
         product_name = soup.find("span", {"class": "B_NuCI"}).get_text()
         product_price = soup.find("div", {"class": "_30jeq3 _16Jk6d"}).get_text()
-        product_image = soup.find("img", {"class": "_396cs4 _2amPTt _3qGmMb"})["src"]
+        product_image = soup.find("img", {"class": "_2r_T1I _396QI4"})["src"]
+        product_other_info = soup.find("div",{"class":"_1AN87F"}).get_text()
 
-        product_info = {
-            "name": product_name,
-            "price": product_price,
-            "image": product_image,
-            "url": product_url,  
-        }
+        specifications={}
+        details_div = soup.find("div", {"class": "X3BRps"})
+        rows = details_div.find_all("div", {"class": "row"})
+        for row in rows:
+            cols = row.find_all("div", {"class": "col"})
+            if len(cols) == 2:
+                key = cols[0].get_text(strip=True)
+                value = cols[1].get_text(strip=True)
+                specifications[key] = value
+
+
+        product_info = {}
+        product_info['name'] = product_name
+        product_info['price'] =product_price
+        product_info['image'] = product_image
+        product_info['specs'] = specifications
+        product_info['others'] = product_other_info
         
         product_info_list.append(product_info)
     
@@ -39,7 +51,7 @@ def main():
     
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
-    link_elements = soup.find_all("a", {"class": "_1fQZEK"})
+    link_elements = soup.find_all("a", {"class": "_2UzuFa"})
     product_links = get_product_link(link_elements)
 
     product_info_list = get_product_info(product_links)
