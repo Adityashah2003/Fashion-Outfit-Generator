@@ -1,21 +1,23 @@
+import json
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import quote
 
-def get_product_link(link_elements):
-    product_links = []
-    for link_element in link_elements:
-        product_links.append(link_element["href"])
-    product_links = product_links[:2]
-    return product_links
+with open('C:\\Users\\Aditya\\Documents\\GitHub\\FOG\\data\\user_purchase_data.json', 'r') as json_file:
+    user_data = json.load(json_file)
+
+product_urls = []
+
+for user in user_data:
+    for purchase_history in user.get('purchase_history', []):
+        if isinstance(purchase_history, str):
+            product_urls.append(purchase_history)
 
 def get_product_info(product_links):
     product_info_list = []
     
     for link in product_links:
-        print(link)
-        product_url = f"https://www.flipkart.com{link}"
-        response = requests.get(product_url)
+        response = requests.get(link)
         soup = BeautifulSoup(response.content, "html.parser")
 
         product_name = soup.find("span", {"class": "B_NuCI"}).get_text()
@@ -33,7 +35,6 @@ def get_product_info(product_links):
                 value = cols[1].get_text(strip=True)
                 specifications[key] = value
 
-
         product_info = {}
         product_info['name'] = product_name
         product_info['price'] =product_price
@@ -46,19 +47,14 @@ def get_product_info(product_links):
     return product_info_list
 
 def main():
-    extracted_keywords = input()
-    encoded_query = quote(extracted_keywords)
-    url = f"https://www.flipkart.com/search?q={encoded_query}"
+    all_product_info = [] 
     
-    response = requests.get(url)
-    soup = BeautifulSoup(response.content, "html.parser")
-    link_elements = soup.find_all("a", {"class": "_2UzuFa"})
-    product_links = get_product_link(link_elements)
+    for url in product_urls:
+        product_info = get_product_info([url])  # Pass the URL as a list to the function
+        all_product_info.extend(product_info)    # Extend the list with the results from each URL
 
-    product_info_list = get_product_info(product_links)
-    
-    for product_info in product_info_list:
-        print(product_info)
+    for product in all_product_info:
+        print(product)
 
 if __name__ == "__main__":
     main()
