@@ -4,8 +4,9 @@ __pycache__/
 *$py.class
 
 data/*.json
-WS_API/garbage/*
-myenv/*
+WS_API/garbage
+myenv
+
 # C extensions
 *.so
 tranformer.ipynb
