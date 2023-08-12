@@ -3,7 +3,7 @@ import re
 
 def extract_data(profile_data):
     extracted_data = []
-    username = profile_data["username"]  # Get the username directly
+    username = profile_data["username"]
     
     latest_igtv_videos = profile_data["latestIgtvVideos"]
     for video in latest_igtv_videos:
@@ -51,8 +51,8 @@ def main():
         if top_captions:
             top_captions_per_user[username] = top_captions[0]
     
-    for username, top_caption in top_captions_per_user.items():
-        print(f"{top_caption}")
+    top_caption_paragraph = "\n".join(top_captions_per_user.values())
+    return top_caption_paragraph
 
 if __name__ == "__main__":
-    main()
+    top_caption = main()

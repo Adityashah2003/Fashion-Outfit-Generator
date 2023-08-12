@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 data/*.json
-ws_data/garbage/*
+ws_data/garbage
 myenv/*
 
 # C extensions
