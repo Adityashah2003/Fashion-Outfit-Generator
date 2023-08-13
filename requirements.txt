@@ -4,5 +4,6 @@ pyautogui
 selenium
 openai
 python-dotenv
-
+tensorflow
+scikit-learn
 # .\myenv\Scripts\Activate.ps1

@@ -29,7 +29,7 @@ def main():
     "Authorization": f"Bearer {api_key}"
     }
     data = {
-    "model": "text-ada-001",
+    "model": "text-davinci-003",
     "prompt": f"Extract fashion outfit items from this paragraph: \"{combined_prompt}\"",
     "max_tokens": 100        
     }
@@ -37,7 +37,11 @@ def main():
     response = requests.post(url, headers=headers, data=json.dumps(data))
     response_json = response.json()
     generated_text = response_json["choices"][0]["text"]
-    print(generated_text)
+    outfit_start = "Outfit items:"
+    outfit_items_text = generated_text.split(outfit_start)[1]
+    outfit_items = [item.strip() for item in outfit_items_text.split(",")]
+
+    print(outfit_items)
 
 if __name__ == "__main__":
     main()
