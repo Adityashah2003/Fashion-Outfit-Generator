@@ -67,8 +67,6 @@ def prepare_training_data(lists_data):
     return encoded_outfits, keyword_to_index, index_to_keyword
 
 def main(train_file_path, interference_file_path):
-    train_file_path ="C:\\Users\\Aditya\\Documents\\GitHub\\FOG\\data\\mock_final_data.json"
-    interference_file_path="C:\\Users\\Aditya\\Documents\\GitHub\\FOG\\data\\mock_test_data.json"
 
     with open(train_file_path, 'r') as train_json_file:
         train_json_data = json.load(train_json_file)
@@ -102,6 +100,6 @@ def main(train_file_path, interference_file_path):
 
 
 if __name__ == "__main__":
-    train_file_path = "C:\\Users\\Aditya\\Documents\\GitHub\\FOG\\data\\mock_final_data.json"
-    interference_file_path = "C:\\Users\\Aditya\\Documents\\GitHub\\FOG\\data\\mock_test_data.json"
+    train_file_path = "C:\\Users\\Aditya\\Documents\\GitHub\\FOG\\data\\cvae_data_mock.json"
+    interference_file_path = "C:\\Users\\Aditya\\Documents\\GitHub\\FOG\\data\\test_data.json"
     main(train_file_path, interference_file_path)

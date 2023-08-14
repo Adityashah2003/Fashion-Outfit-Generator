@@ -6,4 +6,5 @@ openai
 python-dotenv
 tensorflow
 scikit-learn
+matplotlib
 # .\myenv\Scripts\Activate.ps1
