@@ -7,4 +7,6 @@ python-dotenv
 tensorflow
 scikit-learn
 matplotlib
+Flask
+flask-cors
 # .\myenv\Scripts\Activate.ps1

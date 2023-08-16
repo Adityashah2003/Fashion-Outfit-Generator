@@ -23,7 +23,9 @@ def get_product_info(product_links):
         # product_price = soup.find("div", {"class": "_30jeq3 _16Jk6d"})
         # if product_price:
         #     product_price = product_price.get_text()
-        # product_image = soup.find("img", {"class": "_2r_T1I _396QI4"})["src"]
+        product_image = soup.find("img", {"class": "_2r_T1I _396QI4"})
+        # if product_image:
+        #     product_image = soup.find("img", {"class": "_2r_T1I _396QI4"})
         product_other_info = soup.find("div",{"class":"_1AN87F"})
         if product_other_info:
             product_other_info = product_other_info.get_text()
@@ -42,7 +44,7 @@ def get_product_info(product_links):
         product_info['name'] = product_name
         product_info['links'] = link
         # product_info['price'] =product_price
-        # product_info['image'] = product_image
+        product_info['image'] = product_image
         # product_info['specs'] = specifications
         # product_info['others'] = product_other_info
         

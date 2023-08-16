@@ -20,8 +20,8 @@ def main():
 
     top_descriptions_paragraph = "\n".join(top_2_grid_descriptions)
     openai_data = {
-        "model": "text-davinci-003",
-        # "model": "text-curie-001",
+        # "model": "text-davinci-003",
+        "model": "text-curie-001",
         "prompt": f"List 3-4 fashion outfit items from this para :\n\n{top_descriptions_paragraph}",
         "max_tokens": 50        
     }

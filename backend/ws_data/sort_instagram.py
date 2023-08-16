@@ -61,8 +61,8 @@ def main():
     
     top_caption_paragraph = "\n".join(top_captions_per_user.values())
     openai_data = {
-        "model": "text-davinci-003",
-        # "model": "text-curie-001",
+        # "model": "text-davinci-003",
+        "model": "text-curie-001",
         "prompt": f"List 2-3 keywords that suggest fashion outfit items from this para :\n\n{top_caption_paragraph}",
         "max_tokens": 50        
     }

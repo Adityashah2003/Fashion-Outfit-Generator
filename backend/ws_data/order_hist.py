@@ -63,8 +63,8 @@ def main():
     formatted_input = "\n".join(json.dumps(product) for product in all_product_info)
 
     openai_data = {
-        "model": "text-davinci-003",
-        # "model": "text-curie-001",
+        # "model": "text-davinci-003",
+        "model": "text-curie-001",
         "prompt": f"List 3-4 keywords that describe this user's style,preferences and likes from this para :\n\n{formatted_input}",
         "max_tokens": 50        
     }

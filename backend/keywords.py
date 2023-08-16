@@ -34,8 +34,8 @@ def main():
         "Authorization": f"Bearer {api_key}"
     }
     data = {
-        "model": "text-davinci-003",
-        # "model": "text-curie-001",
+        # "model": "text-davinci-003",
+        "model": "text-curie-001",
         # "prompt": f"Extract keyowrds which make up a good fashion outfit when wore together: \"{formatted_prompt}\"",
         "prompt": f"Create a good fashion outfit from these {formatted_prompt} and list out its items.",
         "max_tokens": 40

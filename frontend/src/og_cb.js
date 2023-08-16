@@ -6,27 +6,28 @@ function Chatbot({ handleSystemResponse }) {
 
   const handleSendMessage = async () => {
     if (messageText.trim() === '') return;
-  
+
     const newUserMessage = { text: messageText, isUser: true };
-    setMessages((prevMessages) => [...prevMessages, newUserMessage]);
-  
+    setMessages([...messages, newUserMessage]);
+
     setMessageText('');
-  
+
     try {
-      const response = await fetch('http://127.0.0.1:5000/recvprompt', {
+      const response = await fetch('/backend-api-endpoint', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({ message: messageText }),
       });
-  
+
       const responseData = await response.json();
-      const systemResponse = responseData.response; // Get the response from the server
-  
-      // Display the response as a system message
-      const newSystemMessage = { text: systemResponse, isUser: false };
-      setMessages((prevMessages) => [...prevMessages, newSystemMessage]);
+
+      const newSystemMessage = { text: responseData.response, isUser: false };
+      setMessages([...messages, newSystemMessage]);
+
+      handleSystemResponse(); 
+
     } catch (error) {
       console.error('Error sending message to backend:', error);
     }
@@ -45,9 +46,9 @@ function Chatbot({ handleSystemResponse }) {
         {messages.map((message, index) => (
           <div key={index} className={`message ${message.isUser ? 'user' : 'system'}`}>
             {message.text}
+          </div>
+        ))}
       </div>
-      ))}
-    </div>
       <input
         type="text"
         placeholder="Type your message..."
@@ -57,6 +58,6 @@ function Chatbot({ handleSystemResponse }) {
       />
     </div>
   );
-} 
+}
 
 export default Chatbot;
