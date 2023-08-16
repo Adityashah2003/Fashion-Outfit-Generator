@@ -10,7 +10,7 @@ api_key = os.getenv('API_KEY')
 openai.api_key = api_key
 
 def main():
-    json_file_path = 'C:\\Users\\Aditya\\Documents\\GitHub\\FOG\\data\\pin_data.json'
+    json_file_path = 'backend\\data\\pin_data.json'
 
     with open(json_file_path, 'r', encoding='utf-8') as json_file:
         data = json.load(json_file)
@@ -20,16 +20,16 @@ def main():
 
     top_descriptions_paragraph = "\n".join(top_2_grid_descriptions)
     openai_data = {
-        # "model": "text-davinci-003",
-        "model": "text-curie-001",
-        "prompt": f"List 4-5 fashion outfit items from this para :\n\n{top_descriptions_paragraph}",
+        "model": "text-davinci-003",
+        # "model": "text-curie-001",
+        "prompt": f"List 3-4 fashion outfit items from this para :\n\n{top_descriptions_paragraph}",
         "max_tokens": 50        
     }
 
     response = openai.Completion.create(**openai_data)
     generated_text = response.choices[0].text.strip()
-    print(generated_text)
-    # return generated_text
+    # print(generated_text)
+    return generated_text
 
 if __name__ == "__main__":
     top_descriptions = main()

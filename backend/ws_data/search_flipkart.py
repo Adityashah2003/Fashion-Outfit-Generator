@@ -6,22 +6,27 @@ def get_product_link(link_elements):
     product_links = []
     for link_element in link_elements:
         product_links.append(link_element["href"])
-    product_links = product_links[:2]
+    product_links = product_links[:1]
     return product_links
 
 def get_product_info(product_links):
     product_info_list = []
     
     for link in product_links:
-        print(link)
         product_url = f"https://www.flipkart.com{link}"
         response = requests.get(product_url)
         soup = BeautifulSoup(response.content, "html.parser")
 
-        product_name = soup.find("span", {"class": "B_NuCI"}).get_text()
-        product_price = soup.find("div", {"class": "_30jeq3 _16Jk6d"}).get_text()
-        product_image = soup.find("img", {"class": "_2r_T1I _396QI4"})["src"]
-        product_other_info = soup.find("div",{"class":"_1AN87F"}).get_text()
+        product_name = soup.find("span", {"class": "B_NuCI"})
+        if product_name:
+            product_name = product_name.get_text()
+        # product_price = soup.find("div", {"class": "_30jeq3 _16Jk6d"})
+        # if product_price:
+        #     product_price = product_price.get_text()
+        # product_image = soup.find("img", {"class": "_2r_T1I _396QI4"})["src"]
+        product_other_info = soup.find("div",{"class":"_1AN87F"})
+        if product_other_info:
+            product_other_info = product_other_info.get_text()
 
         specifications={}
         details_div = soup.find("div", {"class": "X3BRps"})
@@ -33,21 +38,20 @@ def get_product_info(product_links):
                 value = cols[1].get_text(strip=True)
                 specifications[key] = value
 
-
         product_info = {}
         product_info['name'] = product_name
-        product_info['price'] =product_price
-        product_info['image'] = product_image
-        product_info['specs'] = specifications
-        product_info['others'] = product_other_info
+        product_info['links'] = link
+        # product_info['price'] =product_price
+        # product_info['image'] = product_image
+        # product_info['specs'] = specifications
+        # product_info['others'] = product_other_info
         
         product_info_list.append(product_info)
     
     return product_info_list
 
-def main():
-    extracted_keywords = input()
-    encoded_query = quote(extracted_keywords)
+def main(product):
+    encoded_query = quote(product)
     url = f"https://www.flipkart.com/search?q={encoded_query}"
     
     response = requests.get(url)
@@ -58,7 +62,7 @@ def main():
     product_info_list = get_product_info(product_links)
     
     for product_info in product_info_list:
-        print(product_info)
+        return product_info
 
 if __name__ == "__main__":
     main()

@@ -3,8 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-data
-ws_data/garbage
+backend/data
+backend/ws_data/garbage
 myenv/*
 
 # C extensions

@@ -5,7 +5,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-with open('C:\\Users\\Aditya\\Documents\\GitHub\\FOG\\data\\user_purchase_data.json', 'r') as json_file:
+with open('backend\\data\\user_purchase_data.json', 'r') as json_file:
     user_data = json.load(json_file)
 load_dotenv()
 api_key = os.getenv('API_KEY')
@@ -25,7 +25,9 @@ def get_product_info(product_links):
         response = requests.get(link)
         soup = BeautifulSoup(response.content, "html.parser")
         # print(response.content)
-        product_name = soup.find("span", {"class": "B_NuCI"}).get_text()
+        product_name = soup.find("span", {"class": "B_NuCI"})
+        if product_name:
+            product_name = product_name.get_text()
         # product_price = soup.find("div", {"class": "_30jeq3 _16Jk6d"}).get_text()
         # product_image = soup.find("img", {"class": "_2r_T1I _396QI4"})["src"]
         product_other_info = soup.find("div",{"class":"_1AN87F"})
@@ -61,18 +63,15 @@ def main():
     formatted_input = "\n".join(json.dumps(product) for product in all_product_info)
 
     openai_data = {
-        # "model": "text-davinci-003",
-        "model": "text-curie-001",
-        "prompt": f"List 4-5 keywords that describe this user's style,preferences and likes from this para :\n\n{formatted_input}",
+        "model": "text-davinci-003",
+        # "model": "text-curie-001",
+        "prompt": f"List 3-4 keywords that describe this user's style,preferences and likes from this para :\n\n{formatted_input}",
         "max_tokens": 50        
     }
 
     response = openai.Completion.create(**openai_data)
     generated_text = response.choices[0].text.strip()
-    # print("Generated keywords:")
-    # print(generated_text)
     return generated_text
-    # keywords = [{"preference": generated_text}]
 
 if __name__ == "__main__":
     main()
