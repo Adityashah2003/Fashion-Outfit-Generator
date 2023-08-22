@@ -96,9 +96,8 @@ def load_test_data(test_data_path):
         test_data = json.load(json_file)
     return test_data
 
-def main():
-    training_data_path = "backend\\data\\mock_training_data\\cvae_data_mock.json"
-    test_data_path = "backend\\data\\mock_training_data\\mock_test_data.json"
+def main(test_data_path):
+    training_data_path = "backend/data/mock_training_data/cvae_data_mock.json"
     with open(training_data_path, 'r') as json_file:
         json_data = json.load(json_file)
 
@@ -108,25 +107,21 @@ def main():
 
     cvae = build_cvae_model(input_shape=(NUM_INPUT_KEYWORDS,), output_shape=(NUM_INPUT_KEYWORDS,), latent_dim=LATENT_DIM)
 
-    optimizer = tf.keras.optimizers.Adam(learning_rate=0.05)
+    optimizer = tf.keras.optimizers.legacy.Adam(learning_rate=0.05)
     cvae.compile(optimizer=optimizer)
     cvae.fit([input_train_data_split, output_train_data_split], epochs=NUM_EPOCHS, batch_size=BATCH_SIZE, validation_data=([input_val_data, output_val_data], None),verbose=0)
 
-    # print("Encoder model summary:")
     input_encoder = Input(shape=(NUM_INPUT_KEYWORDS,))
     encoder_hidden = cvae.layers[2](input_encoder)
     input_mean = Dense(LATENT_DIM)(encoder_hidden)
     input_log_var = Dense(LATENT_DIM)(encoder_hidden)
     input_latent = Lambda(sampling, output_shape=(LATENT_DIM,))([input_mean, input_log_var])
     encoder_model = Model(inputs=input_encoder, outputs=input_latent)
-    # encoder_model.summary()
 
-    # print("Decoder model summary:")
     input_decoder = Input(shape=(LATENT_DIM,))
     decoder_hidden = Dense(256, activation='relu')(input_decoder)  # Adjust the hidden layer dimensions as needed
     decoder_output = Dense(NUM_INPUT_KEYWORDS, activation='sigmoid')(decoder_hidden)
     decoder_model = Model(inputs=input_decoder, outputs=decoder_output)
-    # decoder_model.summary()
 
     test_data = load_test_data(test_data_path)
 
@@ -150,7 +145,7 @@ def main():
         top_keyword_indices = np.argsort(decoded_outfit[0])[::-1][:num_top_keywords]
 
         recommended_keywords = [output_index_to_keyword[i] for i in top_keyword_indices]
-
+        
         return recommended_keywords
 
 if __name__ == "__main__":

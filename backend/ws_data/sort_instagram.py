@@ -45,7 +45,7 @@ def get_top_data(extracted_data, n):
     return top_n_captions
 
 def main():
-    json_file_path = 'backend\\data\\insta_data.json'
+    json_file_path = 'backend/data/insta_data.json'
 
     with open(json_file_path, 'r', encoding='utf-8') as json_file:
         data = json.load(json_file)
@@ -54,22 +54,19 @@ def main():
 
     for profile_data in data:
         extracted_data_per_user = extract_data(profile_data)
-        username = extracted_data_per_user[0]["username"]  # Get the username from the extracted data
+        username = extracted_data_per_user[0]["username"] 
         top_captions = get_top_data(extracted_data_per_user, 1)
         if top_captions:
             top_captions_per_user[username] = top_captions[0]
     
     top_caption_paragraph = "\n".join(top_captions_per_user.values())
     openai_data = {
-        # "model": "text-davinci-003",
         "model": "text-curie-001",
         "prompt": f"List 2-3 keywords that suggest fashion outfit items from this para :\n\n{top_caption_paragraph}",
         "max_tokens": 50        
     }
-
     response = openai.Completion.create(**openai_data)
     generated_text = response.choices[0].text.strip()
-    # print(generated_text)
     return generated_text
 
 if __name__ == "__main__":

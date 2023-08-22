@@ -1,0 +1,6204 @@
+[
+    {
+        "Input fashion outfits": [
+            "Charcoal Gray Suit",
+            "Crisp White Dress Shirt",
+            "Black Leather Dress Shoes",
+            "Black Dress Socks"
+        ],
+        "user_data": ["black", "jeans", "t-shirt"],
+        "social_trends": ["sneakers", "streetwear"],
+        "recommend_output":[
+            "Black Suit",
+            "Graphic Print T-Shirt",
+            "Distressed Skinny Jeans",
+            "Black sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Navy Blue Blazer",
+            "Light Pink Button-Down Shirt",
+            "Khaki Chinos",
+            "Brown Loafers",
+            "Patterned Pocket Square"
+        ],
+        "user_data": ["blue", "jeans", "polo"],
+        "social_trends": ["casual", "preppy"],
+        "recommend_output":[
+            "Navy Blue Blazer",
+            "Black Polo Shirt",
+            "Distressed Skinny Jeans",
+            "Casual Blue sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Black Leather Biker Jacket",
+            "Graphic Print T-Shirt",
+            "Distressed Skinny Jeans",
+            "Black Combat Boots"
+        ],
+        "user_data": ["leather", "jacket", "ripped", "jeans"],
+        "social_trends": ["edgy", "rocker"],
+        "recommend_output":[
+            "Leatherr Jacket",
+            "Edgy Printed T-Shirt",
+            "Ripped Skinny Jeans",
+            "Black Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Classic White T-Shirt",
+            "Faded Blue Jeans",
+            "White Sneakers"
+        ],
+        "user_data": ["casual", "jeans", "sneakers"],
+        "social_trends": ["minimalist", "casual"],
+        "recommend_output":[
+            "White T-Shirt",
+            "Distressed Blue Jeans",
+            "Minimalist White sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Navy Blue Suit",
+            "Light Blue Dress Shirt",
+            "Brown Oxfords",
+            "Patterned Silk Tie"
+        ],
+        "user_data": ["formal", "suit", "tie"],
+        "social_trends": ["professional", "classic"],
+        "recommend_output":[
+            "Professional Jacket",
+            "Graphic Print Shirt",
+            "Classy trousers",
+            "Black silk tie"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Black Hoodie",
+            "Cargo Pants",
+            "High-Top Sneakers"
+        ],
+        "user_data": ["denim", "jacket", "hoodie"],
+        "social_trends": ["streetwear", "casual"],
+        "recommend_output":[
+            "Denim Jacket",
+            "Oversized T-shirt",
+            "Distressed Skinny Jeans",
+            "White sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Black Turtleneck Sweater",
+            "Gray Wool Trousers",
+            "Black Chelsea Boots"
+        ],
+        "user_data": ["turtleneck", "black", "trousers"],
+        "social_trends": ["sophisticated", "modern"],
+        "recommend_output":[
+            "Black Turtleneck sweater",
+            "Graphic Print T-Shirt",
+            "Black Wool trousers",
+            "Black chelsea boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Print Maxi Dress",
+            "Strappy Sandals",
+            "Wide-Brim Hat"
+        ],
+        "user_data": ["floral", "dress", "sandals"],
+        "social_trends": ["boho", "feminine"],
+        "recommend_output":[
+            "Floral Print Maxi Dress",
+            "Graphic Print T-Shirt",
+            "Distressed Skinny Jeans",
+            "Black sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Camouflage Jacket",
+            "Black Crop Top",
+            "High-Waisted Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["camo", "jacket", "crop", "top"],
+        "social_trends": ["edgy", "military"],
+        "recommend_output":[
+            "Camouflage Jacket",
+            "Edgy crop-top",
+            "Distressed Skinny Jeans",
+            "Black sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Gray Sweater",
+            "Black Leggings",
+            "White Sneakers"
+        ],
+        "user_data": ["sweater", "leggings", "sneakers"],
+        "social_trends": ["athleisure", "cozy"],
+        "recommend_output":[
+            "Grey sweater",
+            "atheleisure leggings",
+            "chelsea sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Plaid Flannel Shirt",
+            "Ripped Skinny Jeans",
+            "Brown Ankle Boots"
+        ],
+        "user_data": ["plaid", "shirt", "ripped", "jeans"],
+        "social_trends": ["casual", "grunge"],
+        "recommend_output":[
+            "Black Flannel Shirt",
+            "ripped skinny jeans",
+            "Black chelsea boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Vest",
+            "Band T-Shirt",
+            "Dark Wash Jeans",
+            "Studded Boots"
+        ],
+        "user_data": ["leather", "vest", "band", "tee"],
+        "social_trends": ["rock", "alternative"],
+        "recommend_output":[
+            "leather vest",
+            "Graphic Print T-Shirt",
+            "black dark wash jeans",
+            "Studded chelsea boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Top",
+            "High-Rise Skirt",
+            "Heeled Sandals"
+        ],
+        "user_data": ["off-shoulder", "top", "skirt"],
+        "social_trends": ["elegant", "chic"],
+        "recommend_output":[
+            "off shoulder top",
+            "high rise chic skirt",
+            "Black high heels"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Striped Polo Shirt",
+            "Beige Chinos",
+            "White Sneakers"
+        ],
+        "user_data": ["striped", "polo", "beige", "chinos"],
+        "social_trends": ["preppy", "casual","blue"],
+        "recommend_output":[
+            "striped polo T-shirt",
+            "blue chinos",
+            "casual white sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Oversized Sweater",
+            "Leggings",
+            "Ankle Boots"
+        ],
+        "user_data": ["oversized", "sweater", "leggings","blue"],
+        "social_trends": ["cozy", "casual", "animal print"],
+        "recommend_output":[
+            "casual oversized sweater",
+            "blue leggings",
+            "animal print ankle boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Checked Blouse",
+            "High-Waisted Jeans",
+            "White Flats"
+        ],
+        "user_data": ["checked", "blouse", "high-waisted", "jeans"],
+        "social_trends": ["retro", "vintage"],
+        "recommend_output":[
+            "vintage sweater",
+            "High waised blue jeans",
+            "retro white flats"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Double-Breasted Coat",
+            "Turtleneck Sweater",
+            "Wide-Leg Trousers",
+            "Heeled Boots"
+        ],
+        "user_data": ["double-breasted", "coat", "turtleneck"],
+        "social_trends": ["sophisticated", "classic", "black"],
+        "recommend_output":[
+            "Black Turtleneck sweater",
+            "sophisticated coat",
+            "classic wide leg trousers",
+            "Black heeled boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Hooded Windbreaker",
+            "Athletic Shorts",
+            "Running Shoes"
+        ],
+        "user_data": ["windbreaker", "athletic", "shorts", "neon"],
+        "social_trends": ["sporty", "active", "comfort"],
+        "recommend_output":[
+            "sporty hooded winddreaker",
+            "neon athletic shorts",
+            "comfortable running shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Print Blouse",
+            "High-Rise Jeans",
+            "Wedge Sandals"
+        ],
+        "user_data": ["floral", "blouse", "high-rise", "jeans", "denim"],
+        "social_trends": ["feminine", "trendy"],
+        "recommend_output":[
+            "Floral print crop top",
+            "high-rise denims",
+            "Wedge sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Gray Turtleneck",
+            "Black Leather Pants",
+            "Ankle Boots",
+            "Green Wool trousers"
+        ],
+        "user_data": ["black", "turtleneck", "leather", "pants"],
+        "social_trends": ["edgy", "chic"],
+        "recommend_output":[
+            "Black Turtleneck sweater",
+            "Graphic Print T-Shirt",
+            "Black Wool trousers",
+            "leather ankle boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Graphic T-Shirt",
+            " Shorts",
+            "Canvas Sneakers"
+        ],
+        "user_data": ["cropped", "denim", "jacket", "graphic", "tee","cargo"],
+        "social_trends": ["casual", "urban", "blue"],
+        "recommend_output":[
+            "Cropped denim jacket",
+            "Cargo shorts",
+            "canvas blue sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            " Blouse",
+            " blue Skirt",
+            "Mary Jane Shoes"
+        ],
+        "user_data": ["ruffled", "blouse", "A-line", "skirt"],
+        "social_trends": ["feminine", "vintage"],
+        "recommend_output":[
+            "Ruffed blouse",
+            "A-line blue skirt",
+            "vintage mary jane shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "black Jacket",
+            "White Tank Top",
+            "Distressed Denim Shorts",
+            "High-Top Sneakers"
+        ],
+        "user_data": ["bomber", "jacket", "white", "shorts"],
+        "social_trends": ["casual", "streetwear"],
+        "recommend_output":[
+            "Black Bomber jacket",
+            "White tank top",
+            "High-top sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Shirt Dress",
+            "Belt",
+            "Boots"
+        ],
+        "user_data": ["plaid", "dress", "ankle", "boots"],
+        "social_trends": ["casual", "trendy","leather"],
+        "recommend_output":[
+            "Plaid Shirt Dress",
+            "leather belt",
+            "ankle boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "T-shirt",
+            "Jogger Pants",
+            "Slip-On Sneakers"
+        ],
+        "user_data": ["sweatshirt", "joggers","print", "slip-on", "sneakers"],
+        "social_trends": ["athleisure", "comfortable", "nike" , "grey"],
+        "recommend_output":[
+            "Black Turtleneck sweater",
+            "Graphic Print T-Shirt",
+            "grey jogger pants",
+            "nike slip on sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Striped Sweater",
+            "High-Waisted Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["striped", "jeans"],
+        "social_trends": ["retro", "casual"],
+        "recommend_output":[
+            "Retro Striped Knit",
+            "High-Rise Straight-Leg Jeans",
+            "Sleek Ankle Booties"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Trench Coat",
+            "Turtleneck Sweater",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["turtleneck", "trousers"],
+        "social_trends": ["elegant", "classic"],
+        "recommend_output":[
+            "Tailored Trench Coat",
+            "Cozy Turtleneck Pullover",
+            "Cropped Wool Trousers",
+            "Polished Oxford Brogues"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Graphic Tee",
+            "Distressed Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["graphic", "tee", "combat", "boots"],
+        "social_trends": ["edgy", "streetwear"],
+        "recommend_output":[
+            "Studded Leather Biker Jacket",
+            "Vintage Graphic Print T-Shirt",
+            "Ripped Skinny Jeans",
+            "Lace-Up Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Dress",
+            "Denim Jacket",
+            "Sneakers"
+        ],
+        "user_data": ["floral", "denim", "jacket"],
+        "social_trends": ["feminine", "casual"],
+        "recommend_output":[
+            "Floral Print Midi Dress",
+            "Lightwash Denim Jacket",
+            "Classic White Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Button-Down Shirt",
+            "Pleated Skirt",
+            "Block Heels"
+        ],
+        "user_data": ["pleated", "skirt", "block", "heels"],
+        "social_trends": ["effortless", "elegant"],
+        "recommend_output":[
+            "Flowy Button-Up Blouse",
+            "Chic Pleated Midi Skirt",
+            "Sleek Block-Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Sweatshirt",
+            "Leggings",
+            "Slip-On Sneakers"
+        ],
+        "user_data": ["sweatshirt", "leggings", "slip-on", "sneakers"],
+        "social_trends": ["athleisure", "comfort"],
+        "recommend_output":[
+            "Cozy Graphic Sweatshirt",
+            "Stretchy Leggings",
+            "Sporty Slip-On Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Blouse",
+            "Cropped Pants",
+            "Mules"
+        ],
+        "user_data": ["wrap", "blouse", "cropped", "pants"],
+        "social_trends": ["chic", "minimal"],
+        "recommend_output":[
+            "Elegant Wrap Top",
+            "Tailored Cropped Trousers",
+            "Sleek Mules"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "White Tee",
+            "Cargo Shorts",
+            "Sneakers"
+        ],
+        "user_data": ["cargo", "shorts"],
+        "social_trends": ["casual", "utility"],
+        "recommend_output":[
+            "Distressed Denim Jacket",
+            "Classic White T-Shirt",
+            "Functional Cargo Shorts",
+            "Comfy Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Plaid Blazer",
+            "Turtleneck Sweater",
+            "Straight-Leg Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["plaid", "blazer", "ankle", "boots"],
+        "social_trends": ["sophisticated", "neutral"],
+        "recommend_output":[
+            "Structured Plaid Jacket",
+            "Cozy Turtleneck Pullover",
+            "Straight-Leg Denim",
+            "Chic Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Silk Cami",
+            "Midi Skirt",
+            "Heeled Sandals"
+        ],
+        "user_data": ["silk", "cami", "midi", "skirt"],
+        "social_trends": ["luxurious", "elegant"],
+        "recommend_output":[
+            "Luxe Silk Camisole",
+            "Flowy Midi Skirt",
+            "Sophisticated Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Graphic Sweater",
+            "Wide-Leg Pants",
+            "Loafers"
+        ],
+        "user_data": ["graphic", "sweater", "wide-leg", "pants"],
+        "social_trends": ["casual", "relaxed"],
+        "recommend_output":[
+            "Printed Crewneck Pullover",
+            "Flowy Wide-Leg Trousers",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Striped Shirt",
+            "A-Line Skirt",
+            "Heeled Boots"
+        ],
+        "user_data": ["striped", "shirt", "a-line", "skirt"],
+        "social_trends": ["chic", "elegant"],
+        "recommend_output":[
+            "Classic Striped Blouse",
+            "Flared A-Line Skirt",
+            "Stylish Heeled Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Black Tee",
+            "Cargo Pants",
+            "Sneakers"
+        ],
+        "user_data": ["black", "tee", "sneakers"],
+        "social_trends": ["urban", "casual"],
+        "recommend_output":[
+            "Distressed Denim Jacket",
+            "Sleek Black T-Shirt",
+            "Functional Cargo Pants",
+            "Classic Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Dress",
+            "Block Heels"
+        ],
+        "user_data": ["wrap", "dress", "block", "heels"],
+        "social_trends": ["elegant", "minimal"],
+        "recommend_output":[
+            "Sophisticated Wrap Dress",
+            "Chic Block Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer",
+            "Crewneck Sweater",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["blazer", "trousers", "oxford", "shoes"],
+        "social_trends": ["sophisticated", "classic"],
+        "recommend_output":[
+            "Tailored Blazer Jacket",
+            "Cozy Crewneck Pullover",
+            "Cropped Wool Trousers",
+            "Polished Oxford Brogues"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Top",
+            "Denim Skirt",
+            "Sneakers"
+        ],
+        "user_data": ["off-shoulder", "top", "denim", "skirt"],
+        "social_trends": ["casual", "flirty"],
+        "recommend_output":[
+            "Effortless Off-Shoulder Blouse",
+            "Classic Denim Mini Skirt",
+            "Comfortable Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Mock Neck Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["mock", "neck", "sweater", "pleated", "skirt"],
+        "social_trends": ["chic", "minimal"],
+        "recommend_output":[
+            "Modern Mock Neck Pullover",
+            "Flowy Pleated Midi Skirt",
+            "Sleek Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Blouse",
+            "Cropped Jeans",
+            "Block Heels"
+        ],
+        "user_data": ["floral", "blouse", "cropped", "jeans"],
+        "social_trends": ["feminine", "elegant"],
+        "recommend_output":[
+            "Delicate Floral Print Top",
+            "Cropped Skinny Jeans",
+            "Stylish Block-Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Crewneck Sweater",
+            "High-Waisted Trousers",
+            "Loafers"
+        ],
+        "user_data": ["crewneck", "sweater", "high-waisted", "trousers"],
+        "social_trends": ["elegant", "sophisticated"],
+        "recommend_output":[
+            "Cashmere Crewneck Pullover",
+            "Tailored High-Waist Slacks",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Top",
+            "Flared Skirt",
+            "Heeled Sandals"
+        ],
+        "user_data": ["wrap", "top", "flared", "skirt"],
+        "social_trends": ["effortless", "chic"],
+        "recommend_output":[
+            "Flowy Wrap Blouse",
+            "A-Line Flared Skirt",
+            "Elegant Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Striped Tee",
+            "Cargo Pants",
+            "Sneakers"
+        ],
+        "user_data": ["denim", "jacket", "striped", "tee", "cargo", "pants"],
+        "social_trends": ["casual", "urban"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Striped Graphic Tee",
+            "Functional Cargo Pants",
+            "Comfy Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Midi Dress",
+            "Ankle Boots"
+        ],
+        "user_data": ["floral", "dress", "ankle", "boots"],
+        "social_trends": ["romantic", "boho"],
+        "recommend_output":[
+            "Bohemian Floral Midi Dress",
+            "Stylish Ankle Booties"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Silk Cami",
+            "Wide-Leg Pants",
+            "Block Heels"
+        ],
+        "user_data": ["silk", "cami", "wide-leg", "pants"],
+        "social_trends": ["luxurious", "elegant"],
+        "recommend_output":[
+            "Sophisticated Silk Camisole",
+            "Flowy Wide-Leg Trousers",
+            "Chic Block-Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Graphic T-Shirt",
+            "Cargo Shorts",
+            "Sneakers"
+        ],
+        "user_data": ["graphic", "t-shirt", "cargo", "shorts"],
+        "social_trends": ["casual", "streetwear"],
+        "recommend_output":[
+            "Statement Graphic Print Tee",
+            "Functional Cargo Shorts",
+            "Classic Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Pullover Sweater",
+            "Pleated Skirt",
+            "Knee-High Boots"
+        ],
+        "user_data": ["pullover", "sweater", "pleated", "skirt"],
+        "social_trends": ["cozy", "classic"],
+        "recommend_output":[
+            "Chunky Knit Pullover",
+            "Flowy Pleated Midi Skirt",
+            "Stylish Knee-High Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Blouse",
+            "High-Waisted Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["wrap", "blouse", "high-waisted", "jeans"],
+        "social_trends": ["effortless", "casual"],
+        "recommend_output":[
+            "Effortless Wrap Top",
+            "High-Rise Skinny Jeans",
+            "Sleek Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Striped Sweater",
+            "Flared Pants",
+            "Heeled Mules"
+        ],
+        "user_data": ["striped", "sweater", "flared", "pants"],
+        "social_trends": ["retro", "chic"],
+        "recommend_output":[
+            "Retro Striped Knit",
+            "Flowy Flared Trousers",
+            "Stylish Heeled Mules"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Black Tee",
+            "Wide-Leg Trousers",
+            "Platform Sneakers"
+        ],
+        "user_data": ["leather", "jacket", "black", "tee", "wide-leg", "trousers"],
+        "social_trends": ["edgy", "urban"],
+        "recommend_output":[
+            "Studded Leather Biker Jacket",
+            "Sleek Black T-Shirt",
+            "Flowy Wide-Leg Pants",
+            "Chunky Platform Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Button-Down Shirt",
+            "Corduroy Skirt",
+            "Loafers"
+        ],
+        "user_data": ["button-down", "shirt", "corduroy", "skirt"],
+        "social_trends": ["classic", "casual"],
+        "recommend_output":[
+            "Classic Button-Up Blouse",
+            "A-Line Corduroy Skirt",
+            "Timeless Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Dress",
+            "Denim Jacket",
+            "White Sneakers"
+        ],
+        "user_data": ["floral", "dress", "denim", "jacket"],
+        "social_trends": ["feminine", "casual"],
+        "recommend_output":[
+            "Floral Print Midi Dress",
+            "Lightwash Denim Jacket",
+            "Classic White Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer",
+            "Wide-Leg Pants",
+            "Block Heels"
+        ],
+        "user_data": ["blazer", "wide-leg", "pants", "block", "heels"],
+        "social_trends": ["sophisticated", "chic"],
+        "recommend_output":[
+            "Tailored Blazer Jacket",
+            "Flowy Wide-Leg Trousers",
+            "Stylish Block Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Silk Cami",
+            "Pleated Skirt",
+            "Heeled Sandals"
+        ],
+        "user_data": ["silk", "cami", "pleated", "skirt"],
+        "social_trends": ["luxurious", "elegant"],
+        "recommend_output":[
+            "Luxe Silk Camisole",
+            "Flowy Pleated Midi Skirt",
+            "Sophisticated Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Crewneck Sweater",
+            "Cropped Pants",
+            "Loafers"
+        ],
+        "user_data": ["crewneck", "sweater", "cropped", "pants"],
+        "social_trends": ["casual", "chic"],
+        "recommend_output":[
+            "Cozy Crewneck Pullover",
+            "Tailored Cropped Trousers",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Striped Shirt",
+            "A-Line Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["striped", "shirt", "a-line", "skirt", "ankle", "boots"],
+        "social_trends": ["chic", "effortless"],
+        "recommend_output":[
+            "Classic Striped Blouse",
+            "Flared A-Line Skirt",
+            "Sleek Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Striped Sweater",
+            "High-Waisted Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["striped", "jeans"],
+        "social_trends": ["retro", "casual"],
+        "recommend_output":[
+            "Complementary Striped Pullover",
+            "High-Waisted Flared Jeans",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Trench Coat",
+            "Turtleneck Sweater",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["turtleneck", "trousers"],
+        "social_trends": ["elegant", "classic"],
+        "recommend_output":[
+            "Chic Trench Coat",
+            "Cozy Turtleneck Pullover",
+            "Tailored Cropped Trousers",
+            "Polished Oxford Shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Graphic Tee",
+            "Distressed Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["graphic", "tee", "combat", "boots"],
+        "social_trends": ["edgy", "streetwear"],
+        "recommend_output":[
+            "Stylish Leather Biker Jacket",
+            "Graphic Print Tee",
+            "Ripped Skinny Jeans",
+            "Lace-Up Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Dress",
+            "Denim Jacket",
+            "Sneakers"
+        ],
+        "user_data": ["floral", "denim", "jacket"],
+        "social_trends": ["feminine", "casual"],
+        "recommend_output":[
+            "Floral Print Midi Dress",
+            "Lightwash Denim Jacket",
+            "Classic White Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Button-Down Shirt",
+            "Pleated Skirt",
+            "Loafers"
+        ],
+        "user_data": ["pleated", "skirt", "loafers"],
+        "social_trends": ["effortless", "sophisticated"],
+        "recommend_output":[
+            "Classic Button-Up Blouse",
+            "Elegant Pleated Midi Skirt",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Sweatshirt",
+            "Leggings",
+            "Slip-On Sneakers"
+        ],
+        "user_data": ["sweatshirt", "leggings", "slip-on", "sneakers"],
+        "social_trends": ["athleisure", "comfort"],
+        "recommend_output":[
+            "Cozy Sweatshirt",
+            "Stretchy Leggings",
+            "Comfy Slip-On Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Blouse",
+            "Cropped Pants",
+            "Mules"
+        ],
+        "user_data": ["wrap", "blouse", "cropped", "pants"],
+        "social_trends": ["chic", "minimal"],
+        "recommend_output":[
+            "Flowy Wrap Top",
+            "Tailored Cropped Trousers",
+            "Stylish Mules"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "White Tee",
+            "Cargo Shorts",
+            "Sneakers"
+        ],
+        "user_data": ["white", "tee", "sneakers"],
+        "social_trends": ["casual", "streetwear"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Crisp White T-Shirt",
+            "Functional Cargo Shorts",
+            "Classic Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Plaid Blazer",
+            "Turtleneck Sweater",
+            "Straight-Leg Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["plaid", "blazer", "ankle", "boots"],
+        "social_trends": ["sophisticated", "neutral"],
+        "recommend_output":[
+            "Structured Plaid Jacket",
+            "Cozy Turtleneck Pullover",
+            "Classic Straight-Leg Denim",
+            "Chic Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Silk Cami",
+            "Midi Skirt",
+            "Heeled Sandals"
+        ],
+        "user_data": ["silk", "cami", "midi", "skirt"],
+        "social_trends": ["luxurious", "elegant"],
+        "recommend_output":[
+            "Luxe Silk Camisole",
+            "Flowy Midi Skirt",
+            "Sophisticated Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Graphic Sweater",
+            "Wide-Leg Pants",
+            "Loafers"
+        ],
+        "user_data": ["graphic", "sweater", "wide-leg", "pants"],
+        "social_trends": ["casual", "relaxed"],
+        "recommend_output":[
+            "Printed Graphic Sweater",
+            "Comfy Wide-Leg Trousers",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Striped Shirt",
+            "A-Line Skirt",
+            "Heeled Boots"
+        ],
+        "user_data": ["striped", "shirt", "a-line", "skirt"],
+        "social_trends": ["chic", "elegant"],
+        "recommend_output":[
+            "Classic Striped Blouse",
+            "Flared A-Line Skirt",
+            "Stylish Heeled Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Black Tee",
+            "Cargo Pants",
+            "Sneakers"
+        ],
+        "user_data": ["black", "tee", "cargo", "pants"],
+        "social_trends": ["casual", "streetwear"],
+        "recommend_output":[
+            "Distressed Denim Jacket",
+            "Sleek Black T-Shirt",
+            "Functional Cargo Pants",
+            "Classic Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Dress",
+            "Block Heels"
+        ],
+        "user_data": ["wrap", "dress", "block", "heels"],
+        "social_trends": ["elegant", "minimal"],
+        "recommend_output":[
+            "Sophisticated Wrap Dress",
+            "Chic Block Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer",
+            "Crewneck Sweater",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["blazer", "trousers", "oxford", "shoes"],
+        "social_trends": ["sophisticated", "classic"],
+        "recommend_output":[
+            "Tailored Blazer Jacket",
+            "Cozy Crewneck Pullover",
+            "Cropped Wool Trousers",
+            "Polished Oxford Brogues"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Top",
+            "Denim Skirt",
+            "Sneakers"
+        ],
+        "user_data": ["off-shoulder", "top", "denim", "skirt"],
+        "social_trends": ["casual", "flirty"],
+        "recommend_output":[
+            "Effortless Off-Shoulder Blouse",
+            "Classic Denim Mini Skirt",
+            "Comfortable Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Mock Neck Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["mock", "neck", "sweater", "pleated", "skirt"],
+        "social_trends": ["chic", "minimal"],
+        "recommend_output":[
+            "Modern Mock Neck Pullover",
+            "Flowy Pleated Midi Skirt",
+            "Sleek Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Blouse",
+            "Cropped Jeans",
+            "Block Heels"
+        ],
+        "user_data": ["floral", "blouse", "cropped", "jeans"],
+        "social_trends": ["feminine", "elegant"],
+        "recommend_output":[
+            "Delicate Floral Print Top",
+            "Cropped Skinny Jeans",
+            "Stylish Block-Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Crewneck Sweater",
+            "High-Waisted Trousers",
+            "Loafers"
+        ],
+        "user_data": ["crewneck", "sweater", "high-waisted", "trousers"],
+        "social_trends": ["elegant", "sophisticated"],
+        "recommend_output":[
+            "Cashmere Crewneck Pullover",
+            "Tailored High-Waist Slacks",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Top",
+            "Flared Skirt",
+            "Heeled Sandals"
+        ],
+        "user_data": ["wrap", "top", "flared", "skirt"],
+        "social_trends": ["effortless", "chic"],
+        "recommend_output":[
+            "Flowy Wrap Blouse",
+            "A-Line Flared Skirt",
+            "Elegant Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "White Tee",
+            "Cargo Shorts",
+            "Sneakers"
+        ],
+        "user_data": ["denim", "jacket", "white", "tee", "cargo", "shorts"],
+        "social_trends": ["casual", "urban"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Crisp White T-Shirt",
+            "Functional Cargo Shorts",
+            "Comfy Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Midi Dress",
+            "Ankle Boots"
+        ],
+        "user_data": ["floral", "dress", "ankle", "boots"],
+        "social_trends": ["romantic", "boho"],
+        "recommend_output":[
+            "Bohemian Floral Midi Dress",
+            "Stylish Ankle Booties"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Silk Cami",
+            "Wide-Leg Pants",
+            "Block Heels"
+        ],
+        "user_data": ["silk", "cami", "wide-leg", "pants"],
+        "social_trends": ["luxurious", "elegant"],
+        "recommend_output":[
+            "Sophisticated Silk Camisole",
+            "Flowy Wide-Leg Trousers",
+            "Chic Block-Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Graphic T-Shirt",
+            "Cargo Shorts",
+            "Sneakers"
+        ],
+        "user_data": ["graphic", "t-shirt", "cargo", "shorts"],
+        "social_trends": ["casual", "streetwear"],
+        "recommend_output":[
+            "Statement Graphic Print Tee",
+            "Functional Cargo Shorts",
+            "Classic Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Pullover Sweater",
+            "Pleated Skirt",
+            "Knee-High Boots"
+        ],
+        "user_data": ["pullover", "sweater", "pleated", "skirt"],
+        "social_trends": ["cozy", "classic"],
+        "recommend_output":[
+            "Chunky Knit Pullover",
+            "Flowy Pleated Midi Skirt",
+            "Stylish Knee-High Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Striped Sweater",
+            "High-Waisted Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["striped", "jeans"],
+        "social_trends": ["retro", "casual"],
+        "recommend_output":[
+            "Cozy Striped Knit",
+            "Vintage High-Waisted Denim",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Trench Coat",
+            "Turtleneck Sweater",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["trench", "turtleneck", "trousers"],
+        "social_trends": ["elegant", "classic"],
+        "recommend_output":[
+            "Timeless Trench Coat",
+            "Cozy Turtleneck Pullover",
+            "Tailored Cropped Trousers",
+            "Polished Oxford Shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Graphic Tee",
+            "Distressed Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["leather", "jacket", "graphic", "tee", "combat", "boots"],
+        "social_trends": ["edgy", "streetwear"],
+        "recommend_output":[
+            "Sleek Leather Biker Jacket",
+            "Statement Graphic Print Tee",
+            "Ripped Skinny Denim",
+            "Lace-Up Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Dress",
+            "Denim Jacket",
+            "Sneakers"
+        ],
+        "user_data": ["floral", "dress", "denim", "jacket"],
+        "social_trends": ["feminine", "casual"],
+        "recommend_output":[
+            "Floral Print Midi Dress",
+            "Lightwash Denim Jacket",
+            "Classic White Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Button-Down Shirt",
+            "Pleated Skirt",
+            "Loafers"
+        ],
+        "user_data": ["button-down", "shirt", "pleated", "skirt", "loafers"],
+        "social_trends": ["effortless", "sophisticated"],
+        "recommend_output":[
+            "Classic Button-Up Blouse",
+            "Elegant Pleated Midi Skirt",
+            "Timeless Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Sweatshirt",
+            "Leggings",
+            "Slip-On Sneakers"
+        ],
+        "user_data": ["sweatshirt", "leggings", "slip-on", "sneakers"],
+        "social_trends": ["athleisure", "comfort"],
+        "recommend_output":[
+            "Cozy Sweatshirt",
+            "Stretchy Leggings",
+            "Comfy Slip-On Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Blouse",
+            "Cropped Pants",
+            "Mules"
+        ],
+        "user_data": ["wrap", "blouse", "cropped", "pants"],
+        "social_trends": ["chic", "minimal"],
+        "recommend_output":[
+            "Flowy Wrap Blouse",
+            "Tailored Cropped Trousers",
+            "Stylish Mules"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "White Tee",
+            "Cargo Shorts",
+            "Sneakers"
+        ],
+        "user_data": ["denim", "jacket", "white", "tee", "cargo", "shorts"],
+        "social_trends": ["casual", "streetwear"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Crisp White T-Shirt",
+            "Functional Cargo Shorts",
+            "Classic Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Plaid Blazer",
+            "Turtleneck Sweater",
+            "Straight-Leg Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["plaid", "blazer", "turtleneck", "jeans", "ankle", "boots"],
+        "social_trends": ["sophisticated", "neutral"],
+        "recommend_output":[
+            "Structured Plaid Jacket",
+            "Cozy Turtleneck Pullover",
+            "Classic Straight-Leg Denim",
+            "Chic Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Silk Cami",
+            "Midi Skirt",
+            "Heeled Sandals"
+        ],
+        "user_data": ["silk", "cami", "midi", "skirt"],
+        "social_trends": ["luxurious", "elegant"],
+        "recommend_output":[
+            "Sophisticated Silk Camisole",
+            "Flowy Midi Skirt",
+            "Chic Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Graphic Sweater",
+            "Wide-Leg Pants",
+            "Loafers"
+        ],
+        "user_data": ["graphic", "sweater", "wide-leg", "pants"],
+        "social_trends": ["casual", "relaxed"],
+        "recommend_output":[
+            "Printed Graphic Sweater",
+            "Comfy Wide-Leg Trousers",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Striped Shirt",
+            "A-Line Skirt",
+            "Heeled Boots"
+        ],
+        "user_data": ["striped", "shirt", "a-line", "skirt", "heels"],
+        "social_trends": ["chic", "elegant"],
+        "recommend_output":[
+            "Classic Striped Blouse",
+            "Flared A-Line Skirt",
+            "Stylish Heeled Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Black Tee",
+            "Cargo Pants",
+            "Sneakers"
+        ],
+        "user_data": ["denim", "jacket", "black", "tee", "cargo", "pants"],
+        "social_trends": ["casual", "streetwear"],
+        "recommend_output":[
+            "Distressed Denim Jacket",
+            "Sleek Black T-Shirt",
+            "Functional Cargo Pants",
+            "Classic Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Dress",
+            "Block Heels"
+        ],
+        "user_data": ["wrap", "dress", "block", "heels"],
+        "social_trends": ["elegant", "minimal"],
+        "recommend_output":[
+            "Sophisticated Wrap Dress",
+            "Chic Block Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer",
+            "Crewneck Sweater",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["blazer", "crewneck", "sweater", "cropped", "trousers", "oxford", "shoes"],
+        "social_trends": ["sophisticated", "classic"],
+        "recommend_output":[
+            "Tailored Blazer Jacket",
+            "Cozy Crewneck Pullover",
+            "Tailored Cropped Trousers",
+            "Polished Oxford Brogues"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Top",
+            "Denim Skirt",
+            "Sneakers"
+        ],
+        "user_data": ["off-shoulder", "top", "denim", "skirt"],
+        "social_trends": ["casual", "flirty"],
+        "recommend_output":[
+            "Effortless Off-Shoulder Blouse",
+            "Classic Denim Mini Skirt",
+            "Comfortable Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Mock Neck Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["mock", "neck", "sweater", "pleated", "skirt"],
+        "social_trends": ["chic", "minimal"],
+        "recommend_output":[
+            "Modern Mock Neck Pullover",
+            "Flowy Pleated Midi Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Blouse",
+            "Cropped Jeans",
+            "Block Heels"
+        ],
+        "user_data": ["floral", "blouse", "cropped", "jeans", "block", "heels"],
+        "social_trends": ["feminine", "elegant"],
+        "recommend_output":[
+            "Delicate Floral Print Top",
+            "Cropped Skinny Jeans",
+            "Stylish Block-Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Crewneck Sweater",
+            "High-Waisted Trousers",
+            "Loafers"
+        ],
+        "user_data": ["crewneck", "sweater", "high-waisted", "trousers"],
+        "social_trends": ["elegant", "sophisticated"],
+        "recommend_output":[
+            "Cashmere Crewneck Pullover",
+            "Tailored High-Waist Slacks",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Top",
+            "Flared Skirt",
+            "Heeled Sandals"
+        ],
+        "user_data": ["wrap", "top", "flared", "skirt"],
+        "social_trends": ["effortless", "chic"],
+        "recommend_output":[
+            "Flowy Wrap Blouse",
+            "A-Line Flared Skirt",
+            "Elegant Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "White Tee",
+            "Cargo Shorts",
+            "Sneakers"
+        ],
+        "user_data": ["denim", "jacket", "white", "tee", "cargo", "shorts"],
+        "social_trends": ["casual", "urban"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Crisp White T-Shirt",
+            "Functional Cargo Shorts",
+            "Comfy Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Midi Dress",
+            "Ankle Boots"
+        ],
+        "user_data": ["floral", "dress", "ankle", "boots"],
+        "social_trends": ["romantic", "boho"],
+        "recommend_output":[
+            "Bohemian Floral Midi Dress",
+            "Stylish Ankle Booties"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Silk Cami",
+            "Wide-Leg Pants",
+            "Block Heels"
+        ],
+        "user_data": ["silk", "cami", "wide-leg", "pants"],
+        "social_trends": ["luxurious", "elegant"],
+        "recommend_output":[
+            "Sophisticated Silk Camisole",
+            "Flowy Wide-Leg Trousers",
+            "Chic Block-Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Graphic T-Shirt",
+            "Cargo Shorts",
+            "Sneakers"
+        ],
+        "user_data": ["graphic", "t-shirt", "cargo", "shorts"],
+        "social_trends": ["casual", "streetwear"],
+        "recommend_output":[
+            "Statement Graphic Print Tee",
+            "Functional Cargo Shorts",
+            "Classic Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Pullover Sweater",
+            "Pleated Skirt",
+            "Knee-High Boots"
+        ],
+        "user_data": ["pullover", "sweater", "pleated", "skirt"],
+        "social_trends": ["cozy", "classic"],
+        "recommend_output":[
+            "Chunky Knit Pullover",
+            "Flowy Pleated Midi Skirt",
+            "Stylish Knee-High Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Boho Maxi Dress",
+            "Platform Sandals",
+            "Tassel Earrings"
+        ],
+        "user_data": ["bohemian", "comfortable"],
+        "social_trends": ["flowy", "floral", "earthy"],
+        "recommend_output":[
+            "Effortless Boho Chic Dress",
+            "Stylish Platform Sandals",
+            "Artisan Tassel Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tailored Suit",
+            "Silk Blouse",
+            "Loafers"
+        ],
+        "user_data": ["sophisticated", "business"],
+        "social_trends": ["classic", "minimal", "neutral"],
+        "recommend_output":[
+            "Modern Tailored Suit Set",
+            "Elegant Silk Blouse",
+            "Timeless Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Vintage Band Tee",
+            "Skinny Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["edgy", "retro"],
+        "social_trends": ["leather", "graphic", "bootcut"],
+        "recommend_output":[
+            "Sleek Leather Moto Jacket",
+            "Vintage Rock Band Tee",
+            "Fitted Skinny Denim",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Midi Skirt",
+            "Cropped Sweater",
+            "Lace-Up Flats"
+        ],
+        "user_data": ["feminine", "elegant"],
+        "social_trends": ["floral", "midi", "lace-up"],
+        "recommend_output":[
+            "Charming Floral Print Skirt",
+            "Cozy Cropped Knit",
+            "Delicate Lace-Up Flats"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Varsity Jacket",
+            "Graphic Pullover",
+            "Distressed Jeans",
+            "Sneakers"
+        ],
+        "user_data": ["sporty", "casual"],
+        "social_trends": ["athletic", "logo", "denim"],
+        "recommend_output":[
+            "Classic Varsity Jacket",
+            "Statement Graphic Pullover",
+            "Worn-In Distressed Denim",
+            "Comfy Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chic Jumpsuit",
+            "Strappy Heels",
+            "Statement Necklace"
+        ],
+        "user_data": ["elegant", "chic"],
+        "social_trends": ["sleek", "neutral", "accessorized"],
+        "recommend_output":[
+            "Elevated Chic Jumpsuit",
+            "Strappy High Heels",
+            "Bold Statement Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cargo Pants",
+            "Utility Jacket",
+            "Basic Tee",
+            "Combat Boots"
+        ],
+        "user_data": ["utilitarian", "casual"],
+        "social_trends": ["cargo", "functional", "combat"],
+        "recommend_output":[
+            "Functional Cargo Pants",
+            "Sturdy Utility Jacket",
+            "Essential Basic Tee",
+            "Rugged Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Bohemian Sundress",
+            "Straw Hat",
+            "Woven Sandals"
+        ],
+        "user_data": ["boho", "light"],
+        "social_trends": ["sundress", "straw", "woven"],
+        "recommend_output":[
+            "Free-Spirited Bohemian Dress",
+            "Charming Straw Hat",
+            "Natural Woven Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Turtleneck Sweater",
+            "Corduroy Pants",
+            "Ankle Boots"
+        ],
+        "user_data": ["edgy", "warm"],
+        "social_trends": ["leather", "cozy", "corduroy"],
+        "recommend_output":[
+            "Sleek Leather Biker Jacket",
+            "Cozy Turtleneck Pullover",
+            "Textured Corduroy Pants",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Plaid Blazer",
+            "Vintage Graphic Tee",
+            "High-Waisted Jeans",
+            "Loafers"
+        ],
+        "user_data": ["retro", "sophisticated"],
+        "social_trends": ["plaid", "vintage", "loafers"],
+        "recommend_output":[
+            "Structured Plaid Blazer",
+            "Nostalgic Graphic Print Tee",
+            "Classic High-Waisted Denim",
+            "Timeless Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Midi Dress",
+            "Block Heels"
+        ],
+        "user_data": ["feminine", "elegant"],
+        "social_trends": ["floral", "midi", "block", "heels"],
+        "recommend_output":[
+            "Romantic Floral Print Dress",
+            "Chic Block-Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Striped Turtleneck",
+            "Cropped Wide-Leg Pants",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "comfy"],
+        "social_trends": ["denim", "striped", "wide-leg"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Cozy Striped Turtleneck",
+            "Relaxed Cropped Wide-Leg Pants",
+            "Comfy Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Pleated Skirt",
+            "Blouse",
+            "Loafers"
+        ],
+        "user_data": ["elegant", "chic"],
+        "social_trends": ["pleated", "blouse", "loafers"],
+        "recommend_output":[
+            "Flowy Pleated Midi Skirt",
+            "Sophisticated Blouse",
+            "Timeless Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Striped Tee",
+            "Cargo Pants",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "utilitarian"],
+        "social_trends": ["leather", "striped", "cargo", "combat"],
+        "recommend_output":[
+            "Sleek Leather Moto Jacket",
+            "Striped Crewneck Tee",
+            "Functional Cargo Pants",
+            "Rugged Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Wrap Dress",
+            "Block Heels"
+        ],
+        "user_data": ["feminine", "elegant"],
+        "social_trends": ["floral", "wrap", "block", "heels"],
+        "recommend_output":[
+            "Charming Floral Print Wrap Dress",
+            "Chic Block-Heeled Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer",
+            "Graphic Tee",
+            "Cropped Pants",
+            "Loafers"
+        ],
+        "user_data": ["chic", "casual"],
+        "social_trends": ["blazer", "graphic", "cropped", "loafers"],
+        "recommend_output":[
+            "Tailored Blazer Jacket",
+            "Statement Graphic Print Tee",
+            "Stylish Cropped Trousers",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Boho Maxi Skirt",
+            "Knit Sweater",
+            "Suede Boots"
+        ],
+        "user_data": ["bohemian", "cozy"],
+        "social_trends": ["maxi", "knit", "suede"],
+        "recommend_output":[
+            "Effortless Boho Maxi Skirt",
+            "Comfy Knit Sweater",
+            "Stylish Suede Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Vintage Band Tee",
+            "Cargo Pants",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "vintage"],
+        "social_trends": ["leather", "graphic", "cargo", "combat"],
+        "recommend_output":[
+            "Sleek Leather Biker Jacket",
+            "Vintage Rock Band Tee",
+            "Functional Cargo Pants",
+            "Rugged Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Plaid Blazer",
+            "Silk Cami",
+            "Cropped Jeans",
+            "Loafers"
+        ],
+        "user_data": ["sophisticated", "effortless"],
+        "social_trends": ["plaid", "silk", "cropped", "loafers"],
+        "recommend_output":[
+            "Structured Plaid Blazer",
+            "Elegant Silk Camisole",
+            "Chic Cropped Denim",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Wrap Dress",
+            "Strappy Heels"
+        ],
+        "user_data": ["feminine", "elegant"],
+        "social_trends": ["floral", "wrap", "strappy", "heels"],
+        "recommend_output":[
+            "Charming Floral Print Wrap Dress",
+            "Elegant Strappy Heels"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Striped Turtleneck",
+            "Cargo Pants",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "utilitarian"],
+        "social_trends": ["leather", "striped", "cargo", "combat"],
+        "recommend_output":[
+            "Sleek Leather Biker Jacket",
+            "Striped Turtleneck Sweater",
+            "Functional Cargo Pants",
+            "Rugged Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tailored Suit",
+            "Silk Blouse",
+            "Loafers"
+        ],
+        "user_data": ["elegant", "chic"],
+        "social_trends": ["sophisticated", "business", "neutral"],
+        "recommend_output":[
+            "Modern Tailored Suit Set",
+            "Elegant Silk Blouse",
+            "Timeless Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Boho Maxi Dress",
+            "Platform Sandals",
+            "Tassel Earrings"
+        ],
+        "user_data": ["bohemian", "comfortable"],
+        "social_trends": ["maxi", "platform", "tassel"],
+        "recommend_output":[
+            "Effortless Boho Chic Dress",
+            "Stylish Platform Sandals",
+            "Artisan Tassel Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Vintage Band Tee",
+            "Skinny Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["edgy", "retro"],
+        "social_trends": ["leather", "vintage", "skinny", "ankle", "boots"],
+        "recommend_output":[
+            "Sleek Leather Moto Jacket",
+            "Vintage Rock Band Tee",
+            "Fitted Skinny Denim",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Midi Skirt",
+            "Cropped Sweater",
+            "Lace-Up Flats"
+        ],
+        "user_data": ["feminine", "elegant"],
+        "social_trends": ["floral", "midi", "lace-up"],
+        "recommend_output":[
+            "Charming Floral Print Skirt",
+            "Cozy Cropped Knit",
+            "Delicate Lace-Up Flats"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Varsity Jacket",
+            "Graphic Pullover",
+            "Distressed Jeans",
+            "Sneakers"
+        ],
+        "user_data": ["sporty", "casual"],
+        "social_trends": ["varsity", "graphic", "denim", "sneakers"],
+        "recommend_output":[
+            "Classic Varsity Jacket",
+            "Statement Graphic Pullover",
+            "Worn-In Distressed Denim",
+            "Comfy Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chic Jumpsuit",
+            "Strappy Heels",
+            "Statement Necklace"
+        ],
+        "user_data": ["elegant", "chic"],
+        "social_trends": ["chic", "strappy", "necklace"],
+        "recommend_output":[
+            "Elevated Chic Jumpsuit",
+            "Strappy High Heels",
+            "Bold Statement Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cargo Pants",
+            "Utility Jacket",
+            "Basic Tee",
+            "Combat Boots"
+        ],
+        "user_data": ["utilitarian", "casual"],
+        "social_trends": ["cargo", "utility", "combat", "boots"],
+        "recommend_output":[
+            "Functional Cargo Pants",
+            "Sturdy Utility Jacket",
+            "Essential Basic Tee",
+            "Rugged Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Bohemian Sundress",
+            "Straw Hat",
+            "Woven Sandals"
+        ],
+        "user_data": ["boho", "natural"],
+        "social_trends": ["sundress", "straw", "woven"],
+        "recommend_output":[
+            "Free-Spirited Bohemian Dress",
+            "Charming Straw Hat",
+            "Natural Woven Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Gucci Floral Dress",
+            "Jimmy Choo Heels",
+            "Chanel Crossbody Bag"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["floral", "heels", "crossbody"],
+        "recommend_output":[
+            "Elegant Gucci Floral Print Dress",
+            "Sophisticated Jimmy Choo Heels",
+            "Chic Chanel Crossbody Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Levi's Denim Jacket",
+            "Calvin Klein T-Shirt",
+            "Adidas Sneakers",
+            "Fendi Sunglasses"
+        ],
+        "user_data": ["casual", "sporty"],
+        "social_trends": ["denim", "logo", "sneakers", "sunglasses"],
+        "recommend_output":[
+            "Classic Levi's Denim Jacket",
+            "Comfy Calvin Klein T-Shirt",
+            "Stylish Adidas Sneakers",
+            "Iconic Fendi Sunglasses"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Dior Jumpsuit",
+            "Prada Belt",
+            "Valentino Pumps"
+        ],
+        "user_data": ["luxury", "chic"],
+        "social_trends": ["jumpsuit", "belt", "pumps"],
+        "recommend_output":[
+            "Elegant Dior Jumpsuit",
+            "Sleek Prada Belt",
+            "Stunning Valentino Pumps"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Versace Blazer",
+            "Gucci Silk Scarf",
+            "Louis Vuitton Pants",
+            "Jimmy Choo Boots"
+        ],
+        "user_data": ["luxury", "sophisticated"],
+        "social_trends": ["blazer", "scarf", "pants", "boots"],
+        "recommend_output":[
+            "Signature Versace Blazer",
+            "Luxurious Gucci Silk Scarf",
+            "Chic Louis Vuitton Pants",
+            "Elegant Jimmy Choo Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Balenciaga Hoodie",
+            "Off-White Joggers",
+            "Nike Sneakers",
+            "Dior Cap"
+        ],
+        "user_data": ["streetwear", "athleisure"],
+        "social_trends": ["hoodie", "joggers", "sneakers", "cap"],
+        "recommend_output":[
+            "Trendy Balenciaga Hoodie",
+            "Stylish Off-White Joggers",
+            "Comfortable Nike Sneakers",
+            "Sporty Dior Cap"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chloe Sundress",
+            "Yves Saint Laurent Sandals",
+            "Hermes Bag"
+        ],
+        "user_data": ["feminine", "elegant"],
+        "social_trends": ["sundress", "sandals", "bag"],
+        "recommend_output":[
+            "Charming Chloe Sundress",
+            "Stylish Yves Saint Laurent Sandals",
+            "Luxurious Hermes Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Burberry Trench Coat",
+            "Gucci Scarf",
+            "Prada Pants",
+            "Jimmy Choo Boots"
+        ],
+        "user_data": ["sophisticated", "luxury"],
+        "social_trends": ["trench coat", "scarf", "pants", "boots"],
+        "recommend_output":[
+            "Iconic Burberry Trench Coat",
+            "Elegant Gucci Scarf",
+            "Chic Prada Pants",
+            "Stylish Jimmy Choo Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tommy Hilfiger Polo",
+            "Ralph Lauren Shorts",
+            "Converse Sneakers",
+            "Ray-Ban Sunglasses"
+        ],
+        "user_data": ["preppy", "casual"],
+        "social_trends": ["polo", "shorts", "sneakers", "sunglasses"],
+        "recommend_output":[
+            "Classic Tommy Hilfiger Polo",
+            "Stylish Ralph Lauren Shorts",
+            "Timeless Converse Sneakers",
+            "Iconic Ray-Ban Sunglasses"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Gucci Blouse",
+            "Versace Skirt",
+            "Fendi Heels",
+            "Chanel Earrings"
+        ],
+        "user_data": ["luxury", "chic"],
+        "social_trends": ["blouse", "skirt", "heels", "earrings"],
+        "recommend_output":[
+            "Elegant Gucci Blouse",
+            "Chic Versace Skirt",
+            "Stunning Fendi Heels",
+            "Classic Chanel Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Armani Suit",
+            "Prada Tie",
+            "Gucci Dress Shoes",
+            "Rolex Watch"
+        ],
+        "user_data": ["formal", "sophisticated"],
+        "social_trends": ["suit", "tie", "dress shoes", "watch"],
+        "recommend_output":[
+            "Timeless Armani Suit",
+            "Sleek Prada Tie",
+            "Elegant Gucci Dress Shoes",
+            "Luxurious Rolex Watch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Balmain Leather Jacket",
+            "Givenchy T-Shirt",
+            "Balenciaga Jeans",
+            "Yves Saint Laurent Boots"
+        ],
+        "user_data": ["edgy", "luxury"],
+        "social_trends": ["leather jacket", "t-shirt", "jeans", "boots"],
+        "recommend_output":[
+            "Sleek Balmain Leather Jacket",
+            "Stylish Givenchy T-Shirt",
+            "Trendy Balenciaga Jeans",
+            "Chic Yves Saint Laurent Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chanel Tweed Jacket",
+            "Dior Skirt",
+            "Louis Vuitton Heels",
+            "Hermes Bag"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["tweed jacket", "skirt", "heels", "bag"],
+        "recommend_output":[
+            "Iconic Chanel Tweed Jacket",
+            "Chic Dior Skirt",
+            "Stylish Louis Vuitton Heels",
+            "Luxurious Hermes Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Gucci Tracksuit",
+            "Balenciaga Sneakers",
+            "Gucci Cap"
+        ],
+        "user_data": ["luxury", "athleisure"],
+        "social_trends": ["tracksuit", "sneakers", "cap"],
+        "recommend_output":[
+            "Stylish Gucci Tracksuit",
+            "Trendy Balenciaga Sneakers",
+            "Iconic Gucci Cap"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Prada Dress",
+            "Christian Louboutin Heels",
+            "Chanel Clutch"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["dress", "heels", "clutch"],
+        "recommend_output":[
+            "Sophisticated Prada Dress",
+            "Stunning Christian Louboutin Heels",
+            "Chic Chanel Clutch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ralph Lauren Polo",
+            "Tommy Hilfiger Shorts",
+            "Sperry Boat Shoes",
+            "Ray-Ban Sunglasses"
+        ],
+        "user_data": ["preppy", "casual"],
+        "social_trends": ["polo", "shorts", "boat shoes", "sunglasses"],
+        "recommend_output":[
+            "Classic Ralph Lauren Polo",
+            "Stylish Tommy Hilfiger Shorts",
+            "Timeless Sperry Boat Shoes",
+            "Iconic Ray-Ban Sunglasses"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Louis Vuitton Blouse",
+            "Dior Pants",
+            "Chanel Flats",
+            "Hermes Scarf"
+        ],
+        "user_data": ["luxury", "chic"],
+        "social_trends": ["blouse", "pants", "flats", "scarf"],
+        "recommend_output":[
+            "Elegant Louis Vuitton Blouse",
+            "Chic Dior Pants",
+            "Classic Chanel Flats",
+            "Luxurious Hermes Scarf"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Givenchy Suit",
+            "Versace Tie",
+            "Gucci Dress Shoes",
+            "Rolex Watch"
+        ],
+        "user_data": ["formal", "luxury"],
+        "social_trends": ["suit", "tie", "dress shoes", "watch"],
+        "recommend_output":[
+            "Sleek Givenchy Suit",
+            "Stylish Versace Tie",
+            "Elegant Gucci Dress Shoes",
+            "Luxurious Rolex Watch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Balenciaga Leather Jacket",
+            "Balmain T-Shirt",
+            "Off-White Jeans",
+            "Yves Saint Laurent Boots"
+        ],
+        "user_data": ["edgy", "luxury"],
+        "social_trends": ["leather jacket", "t-shirt", "jeans", "boots"],
+        "recommend_output":[
+            "Trendy Balenciaga Leather Jacket",
+            "Chic Balmain T-Shirt",
+            "Stylish Off-White Jeans",
+            "Iconic Yves Saint Laurent Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chanel Blazer",
+            "Gucci Skirt",
+            "Louis Vuitton Heels",
+            "Hermes Bag"
+        ],
+        "user_data": ["luxury", "sophisticated"],
+        "social_trends": ["blazer", "skirt", "heels", "bag"],
+        "recommend_output":[
+            "Iconic Chanel Blazer",
+            "Chic Gucci Skirt",
+            "Stylish Louis Vuitton Heels",
+            "Luxurious Hermes Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Prada Tracksuit",
+            "Balenciaga Sneakers",
+            "Gucci Cap"
+        ],
+        "user_data": ["luxury", "athleisure"],
+        "social_trends": ["tracksuit", "sneakers", "cap"],
+        "recommend_output":[
+            "Stylish Prada Tracksuit",
+            "Trendy Balenciaga Sneakers",
+            "Iconic Gucci Cap"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Valentino Dress",
+            "Christian Louboutin Heels",
+            "Chanel Clutch"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["dress", "heels", "clutch"],
+        "recommend_output":[
+            "Sophisticated Valentino Dress",
+            "Stunning Christian Louboutin Heels",
+            "Chic Chanel Clutch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tommy Hilfiger Polo",
+            "Ralph Lauren Shorts",
+            "Sperry Boat Shoes",
+            "Ray-Ban Sunglasses"
+        ],
+        "user_data": ["preppy", "casual"],
+        "social_trends": ["polo", "shorts", "boat shoes", "sunglasses"],
+        "recommend_output":[
+            "Classic Tommy Hilfiger Polo",
+            "Stylish Ralph Lauren Shorts",
+            "Timeless Sperry Boat Shoes",
+            "Iconic Ray-Ban Sunglasses"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Gucci Floral Dress",
+            "Jimmy Choo Heels",
+            "Chanel Crossbody Bag"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["floral", "heels", "crossbody"],
+        "recommend_output":[
+            "Elegant Gucci Floral Dress",
+            "Sophisticated Jimmy Choo Heels",
+            "Chic Chanel Crossbody Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Levi's Denim Jacket",
+            "Calvin Klein T-Shirt",
+            "Adidas Sneakers",
+            "Fendi Sunglasses"
+        ],
+        "user_data": ["casual", "sporty"],
+        "social_trends": ["denim", "logo", "sneakers", "sunglasses"],
+        "recommend_output":[
+            "Classic Levi's Denim Jacket",
+            "Comfy Calvin Klein T-Shirt",
+            "Stylish Adidas Sneakers",
+            "Iconic Fendi Sunglasses"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Dior Jumpsuit",
+            "Prada Belt",
+            "Valentino Pumps"
+        ],
+        "user_data": ["luxury", "chic"],
+        "social_trends": ["jumpsuit", "belt", "pumps"],
+        "recommend_output":[
+            "Elegant Dior Jumpsuit",
+            "Sleek Prada Belt",
+            "Stunning Valentino Pumps"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Versace Blazer",
+            "Gucci Silk Scarf",
+            "Louis Vuitton Pants",
+            "Jimmy Choo Boots"
+        ],
+        "user_data": ["luxury", "sophisticated"],
+        "social_trends": ["blazer", "scarf", "pants", "boots"],
+        "recommend_output":[
+            "Signature Versace Blazer",
+            "Luxurious Gucci Silk Scarf",
+            "Chic Louis Vuitton Pants",
+            "Elegant Jimmy Choo Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Balenciaga Hoodie",
+            "Off-White Joggers",
+            "Nike Sneakers",
+            "Dior Cap"
+        ],
+        "user_data": ["streetwear", "athleisure"],
+        "social_trends": ["hoodie", "joggers", "sneakers", "cap"],
+        "recommend_output":[
+            "Trendy Balenciaga Hoodie",
+            "Stylish Off-White Joggers",
+            "Comfortable Nike Sneakers",
+            "Sporty Dior Cap"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chloe Sundress",
+            "Yves Saint Laurent Sandals",
+            "Hermes Bag"
+        ],
+        "user_data": ["feminine", "elegant"],
+        "social_trends": ["sundress", "sandals", "bag"],
+        "recommend_output":[
+            "Charming Chloe Sundress",
+            "Stylish Yves Saint Laurent Sandals",
+            "Luxurious Hermes Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Burberry Trench Coat",
+            "Gucci Scarf",
+            "Prada Pants",
+            "Jimmy Choo Boots"
+        ],
+        "user_data": ["sophisticated", "luxury"],
+        "social_trends": ["trench coat", "scarf", "pants", "boots"],
+        "recommend_output":[
+            "Iconic Burberry Trench Coat",
+            "Elegant Gucci Scarf",
+            "Chic Prada Pants",
+            "Stylish Jimmy Choo Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tommy Hilfiger Polo",
+            "Ralph Lauren Shorts",
+            "Sperry Boat Shoes",
+            "Ray-Ban Sunglasses"
+        ],
+        "user_data": ["preppy", "casual"],
+        "social_trends": ["polo", "shorts", "boat shoes", "sunglasses"],
+        "recommend_output":[
+            "Classic Tommy Hilfiger Polo",
+            "Stylish Ralph Lauren Shorts",
+            "Timeless Sperry Boat Shoes",
+            "Iconic Ray-Ban Sunglasses"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Gucci Blouse",
+            "Versace Skirt",
+            "Fendi Heels",
+            "Chanel Earrings"
+        ],
+        "user_data": ["luxury", "chic"],
+        "social_trends": ["blouse", "skirt", "heels", "earrings"],
+        "recommend_output":[
+            "Elegant Gucci Blouse",
+            "Chic Versace Skirt",
+            "Stunning Fendi Heels",
+            "Classic Chanel Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Armani Suit",
+            "Prada Tie",
+            "Gucci Dress Shoes",
+            "Rolex Watch"
+        ],
+        "user_data": ["formal", "sophisticated"],
+        "social_trends": ["suit", "tie", "dress shoes", "watch"],
+        "recommend_output":[
+            "Timeless Armani Suit",
+            "Sleek Prada Tie",
+            "Elegant Gucci Dress Shoes",
+            "Luxurious Rolex Watch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Balmain Leather Jacket",
+            "Givenchy T-Shirt",
+            "Balenciaga Jeans",
+            "Yves Saint Laurent Boots"
+        ],
+        "user_data": ["edgy", "luxury"],
+        "social_trends": ["leather jacket", "t-shirt", "jeans", "boots"],
+        "recommend_output":[
+            "Sleek Balmain Leather Jacket",
+            "Stylish Givenchy T-Shirt",
+            "Trendy Balenciaga Jeans",
+            "Iconic Yves Saint Laurent Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chanel Tweed Jacket",
+            "Dior Skirt",
+            "Louis Vuitton Heels",
+            "Hermes Bag"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["tweed jacket", "skirt", "heels", "bag"],
+        "recommend_output":[
+            "Iconic Chanel Tweed Jacket",
+            "Chic Dior Skirt",
+            "Stylish Louis Vuitton Heels",
+            "Luxurious Hermes Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Prada Tracksuit",
+            "Balenciaga Sneakers",
+            "Gucci Cap"
+        ],
+        "user_data": ["luxury", "athleisure"],
+        "social_trends": ["tracksuit", "sneakers", "cap"],
+        "recommend_output":[
+            "Stylish Prada Tracksuit",
+            "Trendy Balenciaga Sneakers",
+            "Iconic Gucci Cap"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Valentino Dress",
+            "Christian Louboutin Heels",
+            "Chanel Clutch"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["dress", "heels", "clutch"],
+        "recommend_output":[
+            "Sophisticated Valentino Dress",
+            "Stunning Christian Louboutin Heels",
+            "Chic Chanel Clutch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tommy Hilfiger Polo",
+            "Ralph Lauren Shorts",
+            "Sperry Boat Shoes",
+            "Ray-Ban Sunglasses"
+        ],
+        "user_data": ["preppy", "casual"],
+        "social_trends": ["polo", "shorts", "boat shoes", "sunglasses"],
+        "recommend_output":[
+            "Classic Tommy Hilfiger Polo",
+            "Stylish Ralph Lauren Shorts",
+            "Timeless Sperry Boat Shoes",
+            "Iconic Ray-Ban Sunglasses"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Gucci Blouse",
+            "Versace Skirt",
+            "Fendi Heels",
+            "Chanel Earrings"
+        ],
+        "user_data": ["luxury", "chic"],
+        "social_trends": ["blouse", "skirt", "heels", "earrings"],
+        "recommend_output":[
+            "Elegant Gucci Blouse",
+            "Chic Versace Skirt",
+            "Stunning Fendi Heels",
+            "Classic Chanel Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Armani Suit",
+            "Prada Tie",
+            "Gucci Dress Shoes",
+            "Rolex Watch"
+        ],
+        "user_data": ["formal", "sophisticated"],
+        "social_trends": ["suit", "tie", "dress shoes", "watch"],
+        "recommend_output":[
+            "Timeless Armani Suit",
+            "Sleek Prada Tie",
+            "Elegant Gucci Dress Shoes",
+            "Luxurious Rolex Watch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Balmain Leather Jacket",
+            "Givenchy T-Shirt",
+            "Balenciaga Jeans",
+            "Yves Saint Laurent Boots"
+        ],
+        "user_data": ["edgy", "luxury"],
+        "social_trends": ["leather jacket", "t-shirt", "jeans", "boots"],
+        "recommend_output":[
+            "Sleek Balmain Leather Jacket",
+            "Stylish Givenchy T-Shirt",
+            "Trendy Balenciaga Jeans",
+            "Iconic Yves Saint Laurent Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chanel Tweed Jacket",
+            "Dior Skirt",
+            "Louis Vuitton Heels",
+            "Hermes Bag"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["tweed jacket", "skirt", "heels", "bag"],
+        "recommend_output":[
+            "Iconic Chanel Tweed Jacket",
+            "Chic Dior Skirt",
+            "Stylish Louis Vuitton Heels",
+            "Luxurious Hermes Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Prada Tracksuit",
+            "Balenciaga Sneakers",
+            "Gucci Cap"
+        ],
+        "user_data": ["luxury", "athleisure"],
+        "social_trends": ["tracksuit", "sneakers", "cap"],
+        "recommend_output":[
+            "Stylish Prada Tracksuit",
+            "Trendy Balenciaga Sneakers",
+            "Iconic Gucci Cap"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Valentino Dress",
+            "Christian Louboutin Heels",
+            "Chanel Clutch"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["dress", "heels", "clutch"],
+        "recommend_output":[
+            "Sophisticated Valentino Dress",
+            "Stunning Christian Louboutin Heels",
+            "Chic Chanel Clutch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tommy Hilfiger Polo",
+            "Ralph Lauren Shorts",
+            "Sperry Boat Shoes",
+            "Ray-Ban Sunglasses"
+        ],
+        "user_data": ["preppy", "casual"],
+        "social_trends": ["polo", "shorts", "boat shoes", "sunglasses"],
+        "recommend_output":[
+            "Classic Tommy Hilfiger Polo",
+            "Stylish Ralph Lauren Shorts",
+            "Timeless Sperry Boat Shoes",
+            "Iconic Ray-Ban Sunglasses"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Gucci Blouse",
+            "Versace Skirt",
+            "Fendi Heels",
+            "Chanel Earrings"
+        ],
+        "user_data": ["luxury", "chic"],
+        "social_trends": ["blouse", "skirt", "heels", "earrings"],
+        "recommend_output":[
+            "Elegant Gucci Blouse",
+            "Chic Versace Skirt",
+            "Stunning Fendi Heels",
+            "Classic Chanel Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Armani Suit",
+            "Prada Tie",
+            "Gucci Dress Shoes",
+            "Rolex Watch"
+        ],
+        "user_data": ["formal", "sophisticated"],
+        "social_trends": ["suit", "tie", "dress shoes", "watch"],
+        "recommend_output":[
+            "Timeless Armani Suit",
+            "Sleek Prada Tie",
+            "Elegant Gucci Dress Shoes",
+            "Luxurious Rolex Watch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Balmain Leather Jacket",
+            "Givenchy T-Shirt",
+            "Balenciaga Jeans",
+            "Yves Saint Laurent Boots"
+        ],
+        "user_data": ["edgy", "luxury"],
+        "social_trends": ["leather jacket", "t-shirt", "jeans", "boots"],
+        "recommend_output":[
+            "Sleek Balmain Leather Jacket",
+            "Stylish Givenchy T-Shirt",
+            "Trendy Balenciaga Jeans",
+            "Iconic Yves Saint Laurent Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chanel Tweed Jacket",
+            "Dior Skirt",
+            "Louis Vuitton Heels",
+            "Hermes Bag"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["tweed jacket", "skirt", "heels", "bag"],
+        "recommend_output":[
+            "Iconic Chanel Tweed Jacket",
+            "Chic Dior Skirt",
+            "Stylish Louis Vuitton Heels",
+            "Luxurious Hermes Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Prada Tracksuit",
+            "Balenciaga Sneakers",
+            "Gucci Cap"
+        ],
+        "user_data": ["luxury", "athleisure"],
+        "social_trends": ["tracksuit", "sneakers", "cap"],
+        "recommend_output":[
+            "Stylish Prada Tracksuit",
+            "Trendy Balenciaga Sneakers",
+            "Iconic Gucci Cap"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Valentino Dress",
+            "Christian Louboutin Heels",
+            "Chanel Clutch"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["dress", "heels", "clutch"],
+        "recommend_output":[
+            "Sophisticated Valentino Dress",
+            "Stunning Christian Louboutin Heels",
+            "Chic Chanel Clutch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tommy Hilfiger Polo",
+            "Ralph Lauren Shorts",
+            "Sperry Boat Shoes",
+            "Ray-Ban Sunglasses"
+        ],
+        "user_data": ["preppy", "casual"],
+        "social_trends": ["polo", "shorts", "boat shoes", "sunglasses"],
+        "recommend_output":[
+            "Classic Tommy Hilfiger Polo",
+            "Stylish Ralph Lauren Shorts",
+            "Timeless Sperry Boat Shoes",
+            "Iconic Ray-Ban Sunglasses"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Gucci Blouse",
+            "Versace Skirt",
+            "Fendi Heels",
+            "Chanel Earrings"
+        ],
+        "user_data": ["luxury", "chic"],
+        "social_trends": ["blouse", "skirt", "heels", "earrings"],
+        "recommend_output":[
+            "Elegant Gucci Blouse",
+            "Chic Versace Skirt",
+            "Stunning Fendi Heels",
+            "Classic Chanel Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Armani Suit",
+            "Prada Tie",
+            "Gucci Dress Shoes",
+            "Rolex Watch"
+        ],
+        "user_data": ["formal", "sophisticated"],
+        "social_trends": ["suit", "tie", "dress shoes", "watch"],
+        "recommend_output":[
+            "Timeless Armani Suit",
+            "Sleek Prada Tie",
+            "Elegant Gucci Dress Shoes",
+            "Luxurious Rolex Watch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Balmain Leather Jacket",
+            "Givenchy T-Shirt",
+            "Balenciaga Jeans",
+            "Yves Saint Laurent Boots"
+        ],
+        "user_data": ["edgy", "luxury"],
+        "social_trends": ["leather jacket", "t-shirt", "jeans", "boots"],
+        "recommend_output":[
+            "Sleek Balmain Leather Jacket",
+            "Stylish Givenchy T-Shirt",
+            "Trendy Balenciaga Jeans",
+            "Iconic Yves Saint Laurent Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chanel Tweed Jacket",
+            "Dior Skirt",
+            "Louis Vuitton Heels",
+            "Hermes Bag"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["tweed jacket", "skirt", "heels", "bag"],
+        "recommend_output":[
+            "Iconic Chanel Tweed Jacket",
+            "Chic Dior Skirt",
+            "Stylish Louis Vuitton Heels",
+            "Luxurious Hermes Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Prada Tracksuit",
+            "Balenciaga Sneakers",
+            "Gucci Cap"
+        ],
+        "user_data": ["luxury", "athleisure"],
+        "social_trends": ["tracksuit", "sneakers", "cap"],
+        "recommend_output":[
+            "Stylish Prada Tracksuit",
+            "Trendy Balenciaga Sneakers",
+            "Iconic Gucci Cap"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Valentino Dress",
+            "Christian Louboutin Heels",
+            "Chanel Clutch"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["dress", "heels", "clutch"],
+        "recommend_output":[
+            "Sophisticated Valentino Dress",
+            "Stunning Christian Louboutin Heels",
+            "Chic Chanel Clutch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tommy Hilfiger Polo",
+            "Ralph Lauren Shorts",
+            "Sperry Boat Shoes",
+            "Ray-Ban Sunglasses"
+        ],
+        "user_data": ["preppy", "casual"],
+        "social_trends": ["polo", "shorts", "boat shoes", "sunglasses"],
+        "recommend_output":[
+            "Classic Tommy Hilfiger Polo",
+            "Stylish Ralph Lauren Shorts",
+            "Timeless Sperry Boat Shoes",
+            "Iconic Ray-Ban Sunglasses"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Gucci Blouse",
+            "Versace Skirt",
+            "Fendi Heels",
+            "Chanel Earrings"
+        ],
+        "user_data": ["luxury", "chic"],
+        "social_trends": ["blouse", "skirt", "heels", "earrings"],
+        "recommend_output":[
+            "Elegant Gucci Blouse",
+            "Chic Versace Skirt",
+            "Stunning Fendi Heels",
+            "Classic Chanel Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Armani Suit",
+            "Prada Tie",
+            "Gucci Dress Shoes",
+            "Rolex Watch"
+        ],
+        "user_data": ["formal", "sophisticated"],
+        "social_trends": ["suit", "tie", "dress shoes", "watch"],
+        "recommend_output":[
+            "Timeless Armani Suit",
+            "Sleek Prada Tie",
+            "Elegant Gucci Dress Shoes",
+            "Luxurious Rolex Watch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Balmain Leather Jacket",
+            "Givenchy T-Shirt",
+            "Balenciaga Jeans",
+            "Yves Saint Laurent Boots"
+        ],
+        "user_data": ["edgy", "luxury"],
+        "social_trends": ["leather jacket", "t-shirt", "jeans", "boots"],
+        "recommend_output":[
+            "Sleek Balmain Leather Jacket",
+            "Stylish Givenchy T-Shirt",
+            "Trendy Balenciaga Jeans",
+            "Iconic Yves Saint Laurent Boots"
+        ]
+    },{
+        "Input fashion outfits": [
+            "Burberry Trench Coat",
+            "Gucci Belt",
+            "Prada Loafers",
+            "Ray-Ban Sunglasses"
+        ],
+        "user_data": ["classic", "luxury"],
+        "social_trends": ["trench coat", "belt", "loafers", "sunglasses"],
+        "recommend_output":[
+            "Iconic Burberry Trench Coat",
+            "Stylish Gucci Belt",
+            "Elegant Prada Loafers",
+            "Timeless Ray-Ban Sunglasses"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Versace Dress",
+            "Jimmy Choo Heels",
+            "Chanel Clutch"
+        ],
+        "user_data": ["luxury", "elegant"],
+        "social_trends": ["dress", "heels", "clutch"],
+        "recommend_output":[
+            "Stunning Versace Dress",
+            "Chic Jimmy Choo Heels",
+            "Classic Chanel Clutch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Givenchy Blazer",
+            "Balenciaga T-Shirt",
+            "Saint Laurent Jeans",
+            "Alexander McQueen Sneakers"
+        ],
+        "user_data": ["edgy", "luxury"],
+        "social_trends": ["blazer", "t-shirt", "jeans", "sneakers"],
+        "recommend_output":[
+            "Sleek Givenchy Blazer",
+            "Trendy Balenciaga T-Shirt",
+            "Stylish Saint Laurent Jeans",
+            "Iconic Alexander McQueen Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Gucci Tracksuit",
+            "Nike Sneakers",
+            "Louis Vuitton Backpack"
+        ],
+        "user_data": ["luxury", "athleisure"],
+        "social_trends": ["tracksuit", "sneakers", "backpack"],
+        "recommend_output":[
+            "Stylish Gucci Tracksuit",
+            "Comfortable Nike Sneakers",
+            "Chic Louis Vuitton Backpack"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chanel Jacket",
+            "Dior Skirt",
+            "Valentino Heels",
+            "Gucci Bag"
+        ],
+        "user_data": ["luxury", "chic"],
+        "social_trends": ["jacket", "skirt", "heels", "bag"],
+        "recommend_output":[
+            "Iconic Chanel Jacket",
+            "Chic Dior Skirt",
+            "Stunning Valentino Heels",
+            "Elegant Gucci Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Balenciaga Sweater",
+            "Off-White Jeans",
+            "Yeezy Sneakers",
+            "Louis Vuitton Cap"
+        ],
+        "user_data": ["streetwear", "casual"],
+        "social_trends": ["sweater", "jeans", "sneakers", "cap"],
+        "recommend_output":[
+            "Trendy Balenciaga Sweater",
+            "Stylish Off-White Jeans",
+            "Comfy Yeezy Sneakers",
+            "Chic Louis Vuitton Cap"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Prada Blouse",
+            "Gucci Skirt",
+            "Fendi Heels",
+            "Chanel Earrings"
+        ],
+        "user_data": ["luxury", "chic"],
+        "social_trends": ["blouse", "skirt", "heels", "earrings"],
+        "recommend_output":[
+            "Elegant Prada Blouse",
+            "Chic Gucci Skirt",
+            "Stunning Fendi Heels",
+            "Classic Chanel Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Armani Suit",
+            "Hermes Tie",
+            "Louis Vuitton Dress Shoes",
+            "Rolex Watch"
+        ],
+        "user_data": ["formal", "sophisticated"],
+        "social_trends": ["suit", "tie", "dress shoes", "watch"],
+        "recommend_output":[
+            "Timeless Armani Suit",
+            "Luxurious Hermes Tie",
+            "Elegant Louis Vuitton Dress Shoes",
+            "Luxurious Rolex Watch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Alexander McQueen Jacket",
+            "Givenchy T-Shirt",
+            "Balmain Jeans",
+            "Yeezy Boots"
+        ],
+        "user_data": ["edgy", "luxury"],
+        "social_trends": ["jacket", "t-shirt", "jeans", "boots"],
+        "recommend_output":[
+            "Iconic Alexander McQueen Jacket",
+            "Stylish Givenchy T-Shirt",
+            "Trendy Balmain Jeans",
+            "Comfy Yeezy Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chloe Dress",
+            "Valentino Sandals",
+            "Hermes Bag"
+        ],
+        "user_data": ["feminine", "luxury"],
+        "social_trends": ["dress", "sandals", "bag"],
+        "recommend_output":[
+            "Charming Chloe Dress",
+            "Stylish Valentino Sandals",
+            "Luxurious Hermes Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Striped Blouse",
+            "Wide-Leg Pants",
+            "Platform Sandals"
+        ],
+        "user_data": ["striped", "comfortable"],
+        "social_trends": ["wide-leg pants", "platform sandals"],
+        "recommend_output":[
+            "Casual Striped Blouse",
+            "Comfy Wide-Leg Pants",
+            "Stylish Platform Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Knit Sweater",
+            "Corduroy Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "denim"],
+        "social_trends": ["knit sweater", "corduroy skirt"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Cozy Knit Sweater",
+            "Chic Corduroy Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Biker Jacket",
+            "Graphic T-Shirt",
+            "Black Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["graphic t-shirt", "black jeans"],
+        "recommend_output":[
+            "Sleek Leather Biker Jacket",
+            "Cool Graphic T-Shirt",
+            "Trendy Black Jeans",
+            "Stylish Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Flowy Maxi Dress",
+            "Strappy Sandals",
+            "Sun Hat"
+        ],
+        "user_data": ["feminine", "flowy"],
+        "social_trends": ["strappy sandals", "sun hat"],
+        "recommend_output":[
+            "Charming Flowy Maxi Dress",
+            "Elegant Strappy Sandals",
+            "Stylish Sun Hat"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Checked Shirt",
+            "High-Waisted Shorts",
+            "Sneakers"
+        ],
+        "user_data": ["checked", "casual"],
+        "social_trends": ["high-waisted shorts", "sneakers"],
+        "recommend_output":[
+            "Casual Checked Shirt",
+            "Stylish High-Waisted Shorts",
+            "Comfy Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Midi Skirt",
+            "Off-Shoulder Top",
+            "Wedge Sandals"
+        ],
+        "user_data": ["feminine", "floral"],
+        "social_trends": ["off-shoulder top", "wedge sandals"],
+        "recommend_output":[
+            "Chic Floral Midi Skirt",
+            "Lovely Off-Shoulder Top",
+            "Stylish Wedge Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Trench Coat",
+            "Tailored Pants",
+            "Loafers"
+        ],
+        "user_data": ["classic", "tailored"],
+        "social_trends": ["trench coat", "loafers"],
+        "recommend_output":[
+            "Iconic Trench Coat",
+            "Sharp Tailored Pants",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Pleated Skirt",
+            "Sweater",
+            "Knee-High Boots"
+        ],
+        "user_data": ["elegant", "pleated"],
+        "social_trends": ["sweater", "knee-high boots"],
+        "recommend_output":[
+            "Graceful Pleated Skirt",
+            "Cozy Sweater",
+            "Chic Knee-High Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Printed Shirt Dress",
+            "Belt",
+            "Sandals"
+        ],
+        "user_data": ["print", "casual"],
+        "social_trends": ["shirt dress", "belt"],
+        "recommend_output":[
+            "Stylish Printed Shirt Dress",
+            "Matching Belt",
+            "Comfy Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leopard Print Blouse",
+            "Black Skinny Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["print", "skinny jeans"],
+        "social_trends": ["leopard print blouse", "ankle boots"],
+        "recommend_output":[
+            "Trendy Leopard Print Blouse",
+            "Classic Black Skinny Jeans",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Knit Cardigan",
+            "Tank Top",
+            "Denim Shorts",
+            "Slip-Ons"
+        ],
+        "user_data": ["casual", "knit"],
+        "social_trends": ["tank top", "denim shorts"],
+        "recommend_output":[
+            "Cozy Knit Cardigan",
+            "Basic Tank Top",
+            "Comfy Denim Shorts",
+            "Casual Slip-Ons"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tailored Blazer",
+            "Printed Blouse",
+            "Wide-Leg Trousers",
+            "Heeled Mules"
+        ],
+        "user_data": ["sophisticated", "tailored"],
+        "social_trends": ["printed blouse", "wide-leg trousers"],
+        "recommend_output":[
+            "Elegant Tailored Blazer",
+            "Chic Printed Blouse",
+            "Stylish Wide-Leg Trousers",
+            "Classy Heeled Mules"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Hoodie",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["casual", "comfortable"],
+        "social_trends": ["hoodie", "cargo pants"],
+        "recommend_output":[
+            "Comfy Hoodie",
+            "Relaxed Cargo Pants",
+            "Sporty Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Dress",
+            "Strappy Heels",
+            "Clutch"
+        ],
+        "user_data": ["feminine", "ruffled"],
+        "social_trends": ["strappy heels", "clutch"],
+        "recommend_output":[
+            "Charming Ruffled Dress",
+            "Elegant Strappy Heels",
+            "Chic Clutch"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Oversized Sweater",
+            "Leggings",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "oversized"],
+        "social_trends": ["leggings", "sneakers"],
+        "recommend_output":[
+            "Cozy Oversized Sweater",
+            "Comfy Leggings",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Top",
+            "High-Rise Skirt",
+            "Sandals"
+        ],
+        "user_data": ["feminine", "wrap"],
+        "social_trends": ["high-rise skirt", "sandals"],
+        "recommend_output":[
+            "Chic Wrap Top",
+            "Stylish High-Rise Skirt",
+            "Comfy Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Printed Jumpsuit",
+            "Platform Sandals",
+            "Crossbody Bag"
+        ],
+        "user_data": ["print", "comfortable"],
+        "social_trends": ["platform sandals", "crossbody bag"],
+        "recommend_output":[
+            "Trendy Printed Jumpsuit",
+            "Stylish Platform Sandals",
+            "Convenient Crossbody Bag"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Lace Blouse",
+            "Flared Jeans",
+            "Heeled Boots"
+        ],
+        "user_data": ["elegant", "lace"],
+        "social_trends": ["flared jeans", "heeled boots"],
+        "recommend_output":[
+            "Graceful Lace Blouse",
+            "Trendy Flared Jeans",
+            "Stylish Heeled Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Puffer Jacket",
+            "Turtleneck Sweater",
+            "Skinny Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "puffer jacket"],
+        "social_trends": ["turtleneck sweater", "skinny jeans"],
+        "recommend_output":[
+            "Cozy Puffer Jacket",
+            "Warm Turtleneck Sweater",
+            "Classic Skinny Jeans",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Plaid Shirt",
+            "Denim Skirt",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "plaid"],
+        "social_trends": ["denim skirt", "sneakers"],
+        "recommend_output":[
+            "Comfy Plaid Shirt",
+            "Chic Denim Skirt",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Knit Dress",
+            "Tights",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "knit"],
+        "social_trends": ["tights", "ankle boots"],
+        "recommend_output":[
+            "Cozy Knit Dress",
+            "Warm Tights",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Lace Blouse",
+            "Flared Jeans",
+            "Heeled Boots"
+        ],
+        "user_data": ["elegant", "lace"],
+        "social_trends": ["flared jeans", "heeled boots"],
+        "recommend_output":[
+            "Graceful Lace Blouse",
+            "Trendy Flared Jeans",
+            "Stylish Heeled Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Puffer Jacket",
+            "Turtleneck Sweater",
+            "Skinny Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "puffer jacket"],
+        "social_trends": ["turtleneck sweater", "skinny jeans"],
+        "recommend_output":[
+            "Cozy Puffer Jacket",
+            "Warm Turtleneck Sweater",
+            "Classic Skinny Jeans",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Plaid Shirt",
+            "Denim Skirt",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "plaid"],
+        "social_trends": ["denim skirt", "sneakers"],
+        "recommend_output":[
+            "Comfy Plaid Shirt",
+            "Chic Denim Skirt",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Knit Dress",
+            "Tights",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "knit"],
+        "social_trends": ["tights", "ankle boots"],
+        "recommend_output":[
+            "Cozy Knit Dress",
+            "Warm Tights",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Graphic Tee",
+            "Ripped Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["graphic tee", "ripped jeans"],
+        "recommend_output":[
+            "Cool Leather Jacket",
+            "Unique Graphic Tee",
+            "Edgy Ripped Jeans",
+            "Bold Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Dress",
+            "Block Heels",
+            "Statement Earrings"
+        ],
+        "user_data": ["feminine", "dress"],
+        "social_trends": ["block heels", "statement earrings"],
+        "recommend_output":[
+            "Elegant Wrap Dress",
+            "Chic Block Heels",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Crewneck Sweater",
+            "Corduroy Pants",
+            "Loafers"
+        ],
+        "user_data": ["classic", "corduroy"],
+        "social_trends": ["crewneck sweater", "loafers"],
+        "recommend_output":[
+            "Timeless Crewneck Sweater",
+            "Sophisticated Corduroy Pants",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Top",
+            "Wide-Leg Pants",
+            "Platform Sandals"
+        ],
+        "user_data": ["trendy", "wide-leg"],
+        "social_trends": ["off-shoulder top", "platform sandals"],
+        "recommend_output":[
+            "Chic Off-Shoulder Top",
+            "Stylish Wide-Leg Pants",
+            "Trendy Platform Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tailored Blazer",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["professional", "tailored"],
+        "social_trends": ["cropped trousers", "oxford shoes"],
+        "recommend_output":[
+            "Sharp Tailored Blazer",
+            "Polished Cropped Trousers",
+            "Sleek Oxford Shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Maxi Dress",
+            "Strappy Sandals",
+            "Layered Necklace"
+        ],
+        "user_data": ["boho", "maxi dress"],
+        "social_trends": ["strappy sandals", "layered necklace"],
+        "recommend_output":[
+            "Flowy Maxi Dress",
+            "Bohemian Strappy Sandals",
+            "Artistic Layered Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "V-Neck Sweater",
+            "High-Waisted Jeans",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "v-neck"],
+        "social_trends": ["high-waisted jeans", "sneakers"],
+        "recommend_output":[
+            "Relaxed V-Neck Sweater",
+            "Classic High-Waisted Jeans",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Printed Blouse",
+            "A-Line Skirt",
+            "Ballet Flats"
+        ],
+        "user_data": ["feminine", "printed"],
+        "social_trends": ["a-line skirt", "ballet flats"],
+        "recommend_output":[
+            "Charming Printed Blouse",
+            "Elegant A-Line Skirt",
+            "Graceful Ballet Flats"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Trench Coat",
+            "Striped Shirt",
+            "Cropped Trousers",
+            "Lace-Up Boots"
+        ],
+        "user_data": ["classic", "trench coat"],
+        "social_trends": ["striped shirt", "lace-up boots"],
+        "recommend_output":[
+            "Iconic Trench Coat",
+            "Timeless Striped Shirt",
+            "Polished Cropped Trousers",
+            "Stylish Lace-Up Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Midi Skirt",
+            "Knit Sweater",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "midi skirt"],
+        "social_trends": ["knit sweater", "ankle boots"],
+        "recommend_output":[
+            "Versatile Midi Skirt",
+            "Cozy Knit Sweater",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cropped Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["edgy", "graphic tee"],
+        "social_trends": ["cargo pants", "chunky sneakers"],
+        "recommend_output":[
+            "Bold Cropped Jacket",
+            "Unique Graphic Tee",
+            "Edgy Cargo Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Blouse",
+            "Wide-Leg Pants",
+            "Platform Sandals"
+        ],
+        "user_data": ["romantic", "ruffled"],
+        "social_trends": ["wide-leg pants", "platform sandals"],
+        "recommend_output":[
+            "Feminine Ruffled Blouse",
+            "Chic Wide-Leg Pants",
+            "Elevated Platform Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cashmere Sweater",
+            "Tailored Trousers",
+            "Loafers"
+        ],
+        "user_data": ["sophisticated", "cashmere"],
+        "social_trends": ["tailored trousers", "loafers"],
+        "recommend_output":[
+            "Luxurious Cashmere Sweater",
+            "Polished Tailored Trousers",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Top",
+            "Cropped Jeans",
+            "Slip-On Sneakers"
+        ],
+        "user_data": ["casual", "wrap top"],
+        "social_trends": ["cropped jeans", "slip-on sneakers"],
+        "recommend_output":[
+            "Effortless Wrap Top",
+            "Trendy Cropped Jeans",
+            "Comfortable Slip-On Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer Dress",
+            "Knee-High Boots",
+            "Statement Belt"
+        ],
+        "user_data": ["chic", "blazer dress"],
+        "social_trends": ["knee-high boots", "statement belt"],
+        "recommend_output":[
+            "Sleek Blazer Dress",
+            "Stylish Knee-High Boots",
+            "Statement Belt"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Graphic Tee",
+            "Wide-Leg Trousers",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "denim jacket"],
+        "social_trends": ["wide-leg trousers", "sneakers"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Unique Graphic Tee",
+            "Trendy Wide-Leg Trousers",
+            "Comfortable Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["romantic", "off-shoulder"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Cozy Off-Shoulder Sweater",
+            "Elegant Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Bomber Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["edgy", "bomber jacket"],
+        "social_trends": ["cargo pants", "chunky sneakers"],
+        "recommend_output":[
+            "Cool Bomber Jacket",
+            "Unique Graphic Tee",
+            "Edgy Cargo Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Dress",
+            "Heeled Sandals",
+            "Statement Earrings"
+        ],
+        "user_data": ["feminine", "ruffled"],
+        "social_trends": ["heeled sandals", "statement earrings"],
+        "recommend_output":[
+            "Charming Ruffled Dress",
+            "Elegant Heeled Sandals",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Crewneck Sweater",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["classic", "crewneck"],
+        "social_trends": ["cropped trousers", "oxford shoes"],
+        "recommend_output":[
+            "Timeless Crewneck Sweater",
+            "Sophisticated Cropped Trousers",
+            "Classic Oxford Shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Button-Up Shirt",
+            "A-Line Skirt",
+            "Loafers"
+        ],
+        "user_data": ["classic", "button-up"],
+        "social_trends": ["a-line skirt", "loafers"],
+        "recommend_output":[
+            "Crisp Button-Up Shirt",
+            "Elegant A-Line Skirt",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Sweater Dress",
+            "Thigh-High Boots",
+            "Chunky Scarf"
+        ],
+        "user_data": ["cozy", "sweater dress"],
+        "social_trends": ["thigh-high boots", "chunky scarf"],
+        "recommend_output":[
+            "Warm Sweater Dress",
+            "Stylish Thigh-High Boots",
+            "Chunky Scarf"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Basic Tee",
+            "Distressed Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["distressed jeans", "combat boots"],
+        "recommend_output":[
+            "Cool Leather Jacket",
+            "Classic Basic Tee",
+            "Edgy Distressed Jeans",
+            "Bold Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "V-Neck Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "v-neck"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Relaxed V-Neck Sweater",
+            "Chic Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Printed Blouse",
+            "Skinny Jeans",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "printed"],
+        "social_trends": ["skinny jeans", "sneakers"],
+        "recommend_output":[
+            "Charming Printed Blouse",
+            "Classic Skinny Jeans",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Maxi Dress",
+            "Strappy Sandals",
+            "Layered Necklace"
+        ],
+        "user_data": ["boho", "maxi dress"],
+        "social_trends": ["strappy sandals", "layered necklace"],
+        "recommend_output":[
+            "Flowy Maxi Dress",
+            "Bohemian Strappy Sandals",
+            "Artistic Layered Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Turtleneck Sweater",
+            "Corduroy Pants",
+            "Chelsea Boots"
+        ],
+        "user_data": ["classic", "turtleneck"],
+        "social_trends": ["corduroy pants", "chelsea boots"],
+        "recommend_output":[
+            "Timeless Turtleneck Sweater",
+            "Sophisticated Corduroy Pants",
+            "Stylish Chelsea Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Dress",
+            "Block Heels",
+            "Statement Earrings"
+        ],
+        "user_data": ["feminine", "wrap dress"],
+        "social_trends": ["block heels", "statement earrings"],
+        "recommend_output":[
+            "Elegant Wrap Dress",
+            "Chic Block Heels",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Hooded Sweatshirt",
+            "Jogger Pants",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "hooded sweatshirt"],
+        "social_trends": ["jogger pants", "sneakers"],
+        "recommend_output":[
+            "Comfortable Hooded Sweatshirt",
+            "Relaxed Jogger Pants",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Trench Coat",
+            "Striped Shirt",
+            "Cropped Trousers",
+            "Lace-Up Boots"
+        ],
+        "user_data": ["classic", "trench coat"],
+        "social_trends": ["striped shirt", "lace-up boots"],
+        "recommend_output":[
+            "Iconic Trench Coat",
+            "Timeless Striped Shirt",
+            "Polished Cropped Trousers",
+            "Stylish Lace-Up Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Midi Skirt",
+            "Knit Sweater",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "midi skirt"],
+        "social_trends": ["knit sweater", "ankle boots"],
+        "recommend_output":[
+            "Versatile Midi Skirt",
+            "Cozy Knit Sweater",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cropped Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["edgy", "graphic tee"],
+        "social_trends": ["cargo pants", "chunky sneakers"],
+        "recommend_output":[
+            "Bold Cropped Jacket",
+            "Unique Graphic Tee",
+            "Edgy Cargo Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Blouse",
+            "Wide-Leg Pants",
+            "Platform Sandals"
+        ],
+        "user_data": ["romantic", "ruffled"],
+        "social_trends": ["wide-leg pants", "platform sandals"],
+        "recommend_output":[
+            "Feminine Ruffled Blouse",
+            "Chic Wide-Leg Pants",
+            "Elevated Platform Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cashmere Sweater",
+            "Tailored Trousers",
+            "Loafers"
+        ],
+        "user_data": ["sophisticated", "cashmere"],
+        "social_trends": ["tailored trousers", "loafers"],
+        "recommend_output":[
+            "Luxurious Cashmere Sweater",
+            "Polished Tailored Trousers",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Top",
+            "Cropped Jeans",
+            "Slip-On Sneakers"
+        ],
+        "user_data": ["casual", "wrap top"],
+        "social_trends": ["cropped jeans", "slip-on sneakers"],
+        "recommend_output":[
+            "Effortless Wrap Top",
+            "Trendy Cropped Jeans",
+            "Comfortable Slip-On Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer Dress",
+            "Knee-High Boots",
+            "Statement Belt"
+        ],
+        "user_data": ["chic", "blazer dress"],
+        "social_trends": ["knee-high boots", "statement belt"],
+        "recommend_output":[
+            "Sleek Blazer Dress",
+            "Stylish Knee-High Boots",
+            "Statement Belt"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Graphic Tee",
+            "Wide-Leg Trousers",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "denim jacket"],
+        "social_trends": ["wide-leg trousers", "sneakers"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Unique Graphic Tee",
+            "Trendy Wide-Leg Trousers",
+            "Comfortable Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["romantic", "off-shoulder"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Cozy Off-Shoulder Sweater",
+            "Elegant Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Bomber Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["edgy", "bomber jacket"],
+        "social_trends": ["cargo pants", "chunky sneakers"],
+        "recommend_output":[
+            "Cool Bomber Jacket",
+            "Unique Graphic Tee",
+            "Edgy Cargo Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Dress",
+            "Heeled Sandals",
+            "Statement Earrings"
+        ],
+        "user_data": ["feminine", "ruffled"],
+        "social_trends": ["heeled sandals", "statement earrings"],
+        "recommend_output":[
+            "Charming Ruffled Dress",
+            "Elegant Heeled Sandals",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Lace Blouse",
+            "Flared Jeans",
+            "Heeled Boots"
+        ],
+        "user_data": ["elegant", "lace"],
+        "social_trends": ["flared jeans", "heeled boots"],
+        "recommend_output":[
+            "Graceful Lace Blouse",
+            "Trendy Flared Jeans",
+            "Stylish Heeled Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Puffer Jacket",
+            "Turtleneck Sweater",
+            "Skinny Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "puffer jacket"],
+        "social_trends": ["turtleneck sweater", "skinny jeans"],
+        "recommend_output":[
+            "Cozy Puffer Jacket",
+            "Warm Turtleneck Sweater",
+            "Classic Skinny Jeans",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Plaid Shirt",
+            "Denim Skirt",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "plaid"],
+        "social_trends": ["denim skirt", "sneakers"],
+        "recommend_output":[
+            "Comfy Plaid Shirt",
+            "Chic Denim Skirt",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Knit Dress",
+            "Tights",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "knit"],
+        "social_trends": ["tights", "ankle boots"],
+        "recommend_output":[
+            "Cozy Knit Dress",
+            "Warm Tights",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Graphic Tee",
+            "Ripped Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["graphic tee", "ripped jeans"],
+        "recommend_output":[
+            "Cool Leather Jacket",
+            "Unique Graphic Tee",
+            "Edgy Ripped Jeans",
+            "Bold Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Dress",
+            "Block Heels",
+            "Statement Earrings"
+        ],
+        "user_data": ["feminine", "dress"],
+        "social_trends": ["block heels", "statement earrings"],
+        "recommend_output":[
+            "Elegant Wrap Dress",
+            "Chic Block Heels",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Crewneck Sweater",
+            "Corduroy Pants",
+            "Loafers"
+        ],
+        "user_data": ["classic", "corduroy"],
+        "social_trends": ["crewneck sweater", "loafers"],
+        "recommend_output":[
+            "Timeless Crewneck Sweater",
+            "Sophisticated Corduroy Pants",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Top",
+            "Wide-Leg Pants",
+            "Platform Sandals"
+        ],
+        "user_data": ["trendy", "wide-leg"],
+        "social_trends": ["off-shoulder top", "platform sandals"],
+        "recommend_output":[
+            "Chic Off-Shoulder Top",
+            "Stylish Wide-Leg Pants",
+            "Trendy Platform Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tailored Blazer",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["professional", "tailored"],
+        "social_trends": ["cropped trousers", "oxford shoes"],
+        "recommend_output":[
+            "Sharp Tailored Blazer",
+            "Polished Cropped Trousers",
+            "Sleek Oxford Shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Maxi Dress",
+            "Strappy Sandals",
+            "Layered Necklace"
+        ],
+        "user_data": ["boho", "maxi dress"],
+        "social_trends": ["strappy sandals", "layered necklace"],
+        "recommend_output":[
+            "Flowy Maxi Dress",
+            "Bohemian Strappy Sandals",
+            "Artistic Layered Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "V-Neck Sweater",
+            "High-Waisted Jeans",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "v-neck"],
+        "social_trends": ["high-waisted jeans", "sneakers"],
+        "recommend_output":[
+            "Relaxed V-Neck Sweater",
+            "Classic High-Waisted Jeans",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Printed Blouse",
+            "A-Line Skirt",
+            "Ballet Flats"
+        ],
+        "user_data": ["feminine", "printed"],
+        "social_trends": ["a-line skirt", "ballet flats"],
+        "recommend_output":[
+            "Charming Printed Blouse",
+            "Elegant A-Line Skirt",
+            "Graceful Ballet Flats"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Trench Coat",
+            "Striped Shirt",
+            "Cropped Trousers",
+            "Lace-Up Boots"
+        ],
+        "user_data": ["classic", "trench coat"],
+        "social_trends": ["striped shirt", "lace-up boots"],
+        "recommend_output":[
+            "Iconic Trench Coat",
+            "Timeless Striped Shirt",
+            "Polished Cropped Trousers",
+            "Stylish Lace-Up Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Midi Skirt",
+            "Knit Sweater",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "midi skirt"],
+        "social_trends": ["knit sweater", "ankle boots"],
+        "recommend_output":[
+            "Versatile Midi Skirt",
+            "Cozy Knit Sweater",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cropped Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["edgy", "graphic tee"],
+        "social_trends": ["cargo pants", "chunky sneakers"],
+        "recommend_output":[
+            "Bold Cropped Jacket",
+            "Unique Graphic Tee",
+            "Edgy Cargo Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Blouse",
+            "Wide-Leg Pants",
+            "Platform Sandals"
+        ],
+        "user_data": ["romantic", "ruffled"],
+        "social_trends": ["wide-leg pants", "platform sandals"],
+        "recommend_output":[
+            "Feminine Ruffled Blouse",
+            "Chic Wide-Leg Pants",
+            "Elevated Platform Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cashmere Sweater",
+            "Tailored Trousers",
+            "Loafers"
+        ],
+        "user_data": ["sophisticated", "cashmere"],
+        "social_trends": ["tailored trousers", "loafers"],
+        "recommend_output":[
+            "Luxurious Cashmere Sweater",
+            "Polished Tailored Trousers",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Top",
+            "Cropped Jeans",
+            "Slip-On Sneakers"
+        ],
+        "user_data": ["casual", "wrap top"],
+        "social_trends": ["cropped jeans", "slip-on sneakers"],
+        "recommend_output":[
+            "Effortless Wrap Top",
+            "Trendy Cropped Jeans",
+            "Comfortable Slip-On Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer Dress",
+            "Knee-High Boots",
+            "Statement Belt"
+        ],
+        "user_data": ["chic", "blazer dress"],
+        "social_trends": ["knee-high boots", "statement belt"],
+        "recommend_output":[
+            "Sleek Blazer Dress",
+            "Stylish Knee-High Boots",
+            "Statement Belt"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Graphic Tee",
+            "Wide-Leg Trousers",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "denim jacket"],
+        "social_trends": ["wide-leg trousers", "sneakers"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Unique Graphic Tee",
+            "Trendy Wide-Leg Trousers",
+            "Comfortable Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["romantic", "off-shoulder"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Cozy Off-Shoulder Sweater",
+            "Elegant Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Bomber Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["edgy", "bomber jacket"],
+        "social_trends": ["cargo pants", "chunky sneakers"],
+        "recommend_output":[
+            "Cool Bomber Jacket",
+            "Unique Graphic Tee",
+            "Edgy Cargo Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Dress",
+            "Heeled Sandals",
+            "Statement Earrings"
+        ],
+        "user_data": ["feminine", "ruffled"],
+        "social_trends": ["heeled sandals", "statement earrings"],
+        "recommend_output":[
+            "Charming Ruffled Dress",
+            "Elegant Heeled Sandals",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Crewneck Sweater",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["classic", "crewneck"],
+        "social_trends": ["cropped trousers", "oxford shoes"],
+        "recommend_output":[
+            "Timeless Crewneck Sweater",
+            "Sophisticated Cropped Trousers",
+            "Classic Oxford Shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Button-Up Shirt",
+            "A-Line Skirt",
+            "Loafers"
+        ],
+        "user_data": ["classic", "button-up"],
+        "social_trends": ["a-line skirt", "loafers"],
+        "recommend_output":[
+            "Crisp Button-Up Shirt",
+            "Elegant A-Line Skirt",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Sweater Dress",
+            "Thigh-High Boots",
+            "Chunky Scarf"
+        ],
+        "user_data": ["cozy", "sweater dress"],
+        "social_trends": ["thigh-high boots", "chunky scarf"],
+        "recommend_output":[
+            "Warm Sweater Dress",
+            "Stylish Thigh-High Boots",
+            "Chunky Scarf"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Basic Tee",
+            "Distressed Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["distressed jeans", "combat boots"],
+        "recommend_output":[
+            "Cool Leather Jacket",
+            "Classic Basic Tee",
+            "Edgy Distressed Jeans",
+            "Bold Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "V-Neck Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "v-neck"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Relaxed V-Neck Sweater",
+            "Chic Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Printed Blouse",
+            "Skinny Jeans",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "printed"],
+        "social_trends": ["skinny jeans", "sneakers"],
+        "recommend_output":[
+            "Charming Printed Blouse",
+            "Classic Skinny Jeans",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Maxi Dress",
+            "Strappy Sandals",
+            "Layered Necklace"
+        ],
+        "user_data": ["boho", "maxi dress"],
+        "social_trends": ["strappy sandals", "layered necklace"],
+        "recommend_output":[
+            "Flowy Maxi Dress",
+            "Bohemian Strappy Sandals",
+            "Artistic Layered Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Turtleneck Sweater",
+            "Corduroy Pants",
+            "Chelsea Boots"
+        ],
+        "user_data": ["classic", "turtleneck"],
+        "social_trends": ["corduroy pants", "chelsea boots"],
+        "recommend_output":[
+            "Timeless Turtleneck Sweater",
+            "Sophisticated Corduroy Pants",
+            "Stylish Chelsea Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Dress",
+            "Block Heels",
+            "Statement Earrings"
+        ],
+        "user_data": ["feminine", "wrap dress"],
+        "social_trends": ["block heels", "statement earrings"],
+        "recommend_output":[
+            "Elegant Wrap Dress",
+            "Chic Block Heels",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Hooded Sweatshirt",
+            "Jogger Pants",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "hooded sweatshirt"],
+        "social_trends": ["jogger pants", "sneakers"],
+        "recommend_output":[
+            "Comfortable Hooded Sweatshirt",
+            "Relaxed Jogger Pants",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Trench Coat",
+            "Striped Shirt",
+            "Cropped Trousers",
+            "Lace-Up Boots"
+        ],
+        "user_data": ["classic", "trench coat"],
+        "social_trends": ["striped shirt", "lace-up boots"],
+        "recommend_output":[
+            "Iconic Trench Coat",
+            "Timeless Striped Shirt",
+            "Polished Cropped Trousers",
+            "Stylish Lace-Up Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Midi Skirt",
+            "Knit Sweater",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "midi skirt"],
+        "social_trends": ["knit sweater", "ankle boots"],
+        "recommend_output":[
+            "Versatile Midi Skirt",
+            "Cozy Knit Sweater",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cropped Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["edgy", "graphic tee"],
+        "social_trends": ["cargo pants", "chunky sneakers"],
+        "recommend_output":[
+            "Bold Cropped Jacket",
+            "Unique Graphic Tee",
+            "Edgy Cargo Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Blouse",
+            "Wide-Leg Pants",
+            "Platform Sandals"
+        ],
+        "user_data": ["romantic", "ruffled"],
+        "social_trends": ["wide-leg pants", "platform sandals"],
+        "recommend_output":[
+            "Feminine Ruffled Blouse",
+            "Chic Wide-Leg Pants",
+            "Elevated Platform Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cashmere Sweater",
+            "Tailored Trousers",
+            "Loafers"
+        ],
+        "user_data": ["sophisticated", "cashmere"],
+        "social_trends": ["tailored trousers", "loafers"],
+        "recommend_output":[
+            "Luxurious Cashmere Sweater",
+            "Polished Tailored Trousers",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Top",
+            "Cropped Jeans",
+            "Slip-On Sneakers"
+        ],
+        "user_data": ["casual", "wrap top"],
+        "social_trends": ["cropped jeans", "slip-on sneakers"],
+        "recommend_output":[
+            "Effortless Wrap Top",
+            "Trendy Cropped Jeans",
+            "Comfortable Slip-On Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer Dress",
+            "Knee-High Boots",
+            "Statement Belt"
+        ],
+        "user_data": ["chic", "blazer dress"],
+        "social_trends": ["knee-high boots", "statement belt"],
+        "recommend_output":[
+            "Sleek Blazer Dress",
+            "Stylish Knee-High Boots",
+            "Statement Belt"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Graphic Tee",
+            "Wide-Leg Trousers",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "denim jacket"],
+        "social_trends": ["wide-leg trousers", "sneakers"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Unique Graphic Tee",
+            "Trendy Wide-Leg Trousers",
+            "Comfortable Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["romantic", "off-shoulder"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Cozy Off-Shoulder Sweater",
+            "Elegant Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Bomber Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["edgy", "bomber jacket"],
+        "social_trends": ["cargo pants", "chunky sneakers"],
+        "recommend_output":[
+            "Cool Bomber Jacket",
+            "Unique Graphic Tee",
+            "Edgy Cargo Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Dress",
+            "Heeled Sandals",
+            "Statement Earrings"
+        ],
+        "user_data": ["feminine", "ruffled"],
+        "social_trends": ["heeled sandals", "statement earrings"],
+        "recommend_output":[
+            "Charming Ruffled Dress",
+            "Elegant Heeled Sandals",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Striped Sweater",
+            "Corduroy Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "striped"],
+        "social_trends": ["corduroy skirt", "ankle boots"],
+        "recommend_output":[
+            "Classic Striped Sweater",
+            "Chic Corduroy Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Puffer Vest",
+            "Turtleneck Sweater",
+            "Mom Jeans",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["casual", "puffer vest"],
+        "social_trends": ["turtleneck sweater", "mom jeans"],
+        "recommend_output":[
+            "Cozy Puffer Vest",
+            "Warm Turtleneck Sweater",
+            "Relaxed Mom Jeans",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Plaid Dress",
+            "Knee-High Boots",
+            "Wide Belt"
+        ],
+        "user_data": ["chic", "plaid"],
+        "social_trends": ["knee-high boots", "wide belt"],
+        "recommend_output":[
+            "Sophisticated Plaid Dress",
+            "Stylish Knee-High Boots",
+            "Statement Wide Belt"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Skirt",
+            "Mock Neck Top",
+            "Platform Sneakers"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["mock neck top", "platform sneakers"],
+        "recommend_output":[
+            "Bold Leather Skirt",
+            "Sleek Mock Neck Top",
+            "Urban Platform Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Blouse",
+            "High-Waisted Pants",
+            "Pointed Flats"
+        ],
+        "user_data": ["elegant", "wrap blouse"],
+        "social_trends": ["high-waisted pants", "pointed flats"],
+        "recommend_output":[
+            "Graceful Wrap Blouse",
+            "Sophisticated High-Waisted Pants",
+            "Chic Pointed Flats"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Chunky Sweater",
+            "Cropped Trousers",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["casual", "chunky sweater"],
+        "social_trends": ["cropped trousers", "chunky sneakers"],
+        "recommend_output":[
+            "Comfy Chunky Sweater",
+            "Trendy Cropped Trousers",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Biker Jacket",
+            "Band Tee",
+            "Ripped Jeans",
+            "Ankle Boots"
+        ],
+        "user_data": ["edgy", "biker jacket"],
+        "social_trends": ["band tee", "ripped jeans"],
+        "recommend_output":[
+            "Stylish Biker Jacket",
+            "Vintage Band Tee",
+            "Edgy Ripped Jeans",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Boho Dress",
+            "Suede Boots",
+            "Layered Necklace"
+        ],
+        "user_data": ["boho", "boho dress"],
+        "social_trends": ["suede boots", "layered necklace"],
+        "recommend_output":[
+            "Free-Spirited Boho Dress",
+            "Suede Boots",
+            "Artistic Layered Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Classic Blazer",
+            "Printed Blouse",
+            "Straight-Leg Pants",
+            "Loafers"
+        ],
+        "user_data": ["professional", "classic blazer"],
+        "social_trends": ["printed blouse", "straight-leg pants"],
+        "recommend_output":[
+            "Timeless Classic Blazer",
+            "Charming Printed Blouse",
+            "Polished Straight-Leg Pants",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Sweater Dress",
+            "Over-the-Knee Boots",
+            "Tassel Earrings"
+        ],
+        "user_data": ["casual", "sweater dress"],
+        "social_trends": ["over-the-knee boots", "tassel earrings"],
+        "recommend_output":[
+            "Cozy Sweater Dress",
+            "Stylish Over-the-Knee Boots",
+            "Chic Tassel Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Oversized Cardigan",
+            "Tunic Dress",
+            "Leggings",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "oversized cardigan"],
+        "social_trends": ["tunic dress", "leggings"],
+        "recommend_output":[
+            "Comfy Oversized Cardigan",
+            "Relaxed Tunic Dress",
+            "Cozy Leggings",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Graphic Hoodie",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["casual", "graphic hoodie"],
+        "social_trends": ["cargo pants", "chunky sneakers"],
+        "recommend_output":[
+            "Cool Graphic Hoodie",
+            "Functional Cargo Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Silk Camisole",
+            "Wide-Leg Trousers",
+            "Pointed Flats"
+        ],
+        "user_data": ["elegant", "silk camisole"],
+        "social_trends": ["wide-leg trousers", "pointed flats"],
+        "recommend_output":[
+            "Luxurious Silk Camisole",
+            "Sophisticated Wide-Leg Trousers",
+            "Chic Pointed Flats"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Athletic Jacket",
+            "Leggings",
+            "Sneakers"
+        ],
+        "user_data": ["sporty", "athletic jacket"],
+        "social_trends": ["leggings", "sneakers"],
+        "recommend_output":[
+            "Functional Athletic Jacket",
+            "Comfortable Leggings",
+            "Sporty Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Faux Leather Pants",
+            "Mock Neck Sweater",
+            "Ankle Boots"
+        ],
+        "user_data": ["edgy", "faux leather"],
+        "social_trends": ["mock neck sweater", "ankle boots"],
+        "recommend_output":[
+            "Sleek Faux Leather Pants",
+            "Chic Mock Neck Sweater",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Flowy Blouse",
+            "Paperbag Waist Pants",
+            "Block Heels"
+        ],
+        "user_data": ["feminine", "flowy blouse"],
+        "social_trends": ["paperbag waist pants", "block heels"],
+        "recommend_output":[
+            "Elegant Flowy Blouse",
+            "Trendy Paperbag Waist Pants",
+            "Chic Block Heels"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Turtleneck Sweater Dress",
+            "Thigh-High Boots",
+            "Statement Belt"
+        ],
+        "user_data": ["elegant", "turtleneck dress"],
+        "social_trends": ["thigh-high boots", "statement belt"],
+        "recommend_output":[
+            "Chic Turtleneck Sweater Dress",
+            "Stylish Thigh-High Boots",
+            "Statement Belt"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Utility Jumpsuit",
+            "Combat Boots",
+            "Chunky Necklace"
+        ],
+        "user_data": ["edgy", "utility jumpsuit"],
+        "social_trends": ["combat boots", "chunky necklace"],
+        "recommend_output":[
+            "Functional Utility Jumpsuit",
+            "Bold Combat Boots",
+            "Chunky Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Printed Maxi Dress",
+            "Strappy Sandals",
+            "Layered Necklace"
+        ],
+        "user_data": ["boho", "printed maxi dress"],
+        "social_trends": ["strappy sandals", "layered necklace"],
+        "recommend_output":[
+            "Artistic Printed Maxi Dress",
+            "Bohemian Strappy Sandals",
+            "Artistic Layered Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tailored Blazer",
+            "Culottes",
+            "Loafers"
+        ],
+        "user_data": ["professional", "tailored blazer"],
+        "social_trends": ["culottes", "loafers"],
+        "recommend_output":[
+            "Sharp Tailored Blazer",
+            "Chic Culottes",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Top",
+            "Wide-Leg Pants",
+            "Platform Sandals"
+        ],
+        "user_data": ["trendy", "off-shoulder"],
+        "social_trends": ["wide-leg pants", "platform sandals"],
+        "recommend_output":[
+            "Chic Off-Shoulder Top",
+            "Stylish Wide-Leg Pants",
+            "Trendy Platform Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Blouse",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["feminine", "ruffled"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Charming Ruffled Blouse",
+            "Elegant Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Knit Dress",
+            "Tights",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "knit"],
+        "social_trends": ["tights", "ankle boots"],
+        "recommend_output":[
+            "Cozy Knit Dress",
+            "Warm Tights",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Graphic Tee",
+            "Ripped Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["graphic tee", "ripped jeans"],
+        "recommend_output":[
+            "Cool Leather Jacket",
+            "Unique Graphic Tee",
+            "Edgy Ripped Jeans",
+            "Bold Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Dress",
+            "Block Heels",
+            "Statement Earrings"
+        ],
+        "user_data": ["feminine", "dress"],
+        "social_trends": ["block heels", "statement earrings"],
+        "recommend_output":[
+            "Elegant Wrap Dress",
+            "Chic Block Heels",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Crewneck Sweater",
+            "Corduroy Pants",
+            "Loafers"
+        ],
+        "user_data": ["classic", "corduroy"],
+        "social_trends": ["crewneck sweater", "loafers"],
+        "recommend_output":[
+            "Timeless Crewneck Sweater",
+            "Sophisticated Corduroy Pants",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Top",
+            "Wide-Leg Pants",
+            "Platform Sandals"
+        ],
+        "user_data": ["trendy", "wide-leg"],
+        "social_trends": ["off-shoulder top", "platform sandals"],
+        "recommend_output":[
+            "Chic Off-Shoulder Top",
+            "Stylish Wide-Leg Pants",
+            "Trendy Platform Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tailored Blazer",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["professional", "tailored"],
+        "social_trends": ["cropped trousers", "oxford shoes"],
+        "recommend_output":[
+            "Sharp Tailored Blazer",
+            "Polished Cropped Trousers",
+            "Sleek Oxford Shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Maxi Dress",
+            "Strappy Sandals",
+            "Layered Necklace"
+        ],
+        "user_data": ["boho", "maxi dress"],
+        "social_trends": ["strappy sandals", "layered necklace"],
+        "recommend_output":[
+            "Flowy Maxi Dress",
+            "Bohemian Strappy Sandals",
+            "Artistic Layered Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "V-Neck Sweater",
+            "High-Waisted Jeans",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "v-neck"],
+        "social_trends": ["high-waisted jeans", "sneakers"],
+        "recommend_output":[
+            "Relaxed V-Neck Sweater",
+            "Classic High-Waisted Jeans",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Printed Blouse",
+            "A-Line Skirt",
+            "Ballet Flats"
+        ],
+        "user_data": ["feminine", "printed"],
+        "social_trends": ["a-line skirt", "ballet flats"],
+        "recommend_output":[
+            "Charming Printed Blouse",
+            "Elegant A-Line Skirt",
+            "Graceful Ballet Flats"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Sweater Dress",
+            "Thigh-High Boots",
+            "Chunky Scarf"
+        ],
+        "user_data": ["cozy", "sweater dress"],
+        "social_trends": ["thigh-high boots", "chunky scarf"],
+        "recommend_output":[
+            "Warm Sweater Dress",
+            "Stylish Thigh-High Boots",
+            "Chunky Scarf"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Basic Tee",
+            "Distressed Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["distressed jeans", "combat boots"],
+        "recommend_output":[
+            "Cool Leather Jacket",
+            "Classic Basic Tee",
+            "Edgy Distressed Jeans",
+            "Bold Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "V-Neck Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "v-neck"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Relaxed V-Neck Sweater",
+            "Chic Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Printed Blouse",
+            "Skinny Jeans",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "printed"],
+        "social_trends": ["skinny jeans", "sneakers"],
+        "recommend_output":[
+            "Charming Printed Blouse",
+            "Classic Skinny Jeans",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Maxi Dress",
+            "Strappy Sandals",
+            "Layered Necklace"
+        ],
+        "user_data": ["boho", "maxi dress"],
+        "social_trends": ["strappy sandals", "layered necklace"],
+        "recommend_output":[
+            "Flowy Maxi Dress",
+            "Bohemian Strappy Sandals",
+            "Artistic Layered Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Turtleneck Sweater",
+            "Corduroy Pants",
+            "Chelsea Boots"
+        ],
+        "user_data": ["classic", "turtleneck"],
+        "social_trends": ["corduroy pants", "chelsea boots"],
+        "recommend_output":[
+            "Timeless Turtleneck Sweater",
+            "Sophisticated Corduroy Pants",
+            "Stylish Chelsea Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Top",
+            "Flared Jeans",
+            "Mules"
+        ],
+        "user_data": ["casual", "wrap top"],
+        "social_trends": ["flared jeans", "mules"],
+        "recommend_output":[
+            "Effortless Wrap Top",
+            "Trendy Flared Jeans",
+            "Chic Mules"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer Dress",
+            "Knee-High Boots",
+            "Statement Belt"
+        ],
+        "user_data": ["chic", "blazer dress"],
+        "social_trends": ["knee-high boots", "statement belt"],
+        "recommend_output":[
+            "Sleek Blazer Dress",
+            "Stylish Knee-High Boots",
+            "Statement Belt"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Graphic Tee",
+            "Wide-Leg Trousers",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "denim jacket"],
+        "social_trends": ["wide-leg trousers", "sneakers"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Unique Graphic Tee",
+            "Trendy Wide-Leg Trousers",
+            "Comfortable Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["romantic", "off-shoulder"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Cozy Off-Shoulder Sweater",
+            "Elegant Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Bomber Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["edgy", "bomber jacket"],
+        "social_trends": ["cargo pants", "chunky sneakers"],
+        "recommend_output":[
+            "Cool Bomber Jacket",
+            "Unique Graphic Tee",
+            "Edgy Cargo Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Dress",
+            "Heeled Sandals",
+            "Statement Earrings"
+        ],
+        "user_data": ["feminine", "ruffled"],
+        "social_trends": ["heeled sandals", "statement earrings"],
+        "recommend_output":[
+            "Charming Ruffled Dress",
+            "Elegant Heeled Sandals",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Crewneck Sweater",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["classic", "crewneck"],
+        "social_trends": ["cropped trousers", "oxford shoes"],
+        "recommend_output":[
+            "Timeless Crewneck Sweater",
+            "Sophisticated Cropped Trousers",
+            "Classic Oxford Shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Button-Up Shirt",
+            "A-Line Skirt",
+            "Loafers"
+        ],
+        "user_data": ["classic", "button-up"],
+        "social_trends": ["a-line skirt", "loafers"],
+        "recommend_output":[
+            "Crisp Button-Up Shirt",
+            "Elegant A-Line Skirt",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Sweater Dress",
+            "Thigh-High Boots",
+            "Chunky Scarf"
+        ],
+        "user_data": ["cozy", "sweater dress"],
+        "social_trends": ["thigh-high boots", "chunky scarf"],
+        "recommend_output":[
+            "Warm Sweater Dress",
+            "Stylish Thigh-High Boots",
+            "Chunky Scarf"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Basic Tee",
+            "Distressed Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["distressed jeans", "combat boots"],
+        "recommend_output":[
+            "Cool Leather Jacket",
+            "Classic Basic Tee",
+            "Edgy Distressed Jeans",
+            "Bold Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "V-Neck Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "v-neck"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Relaxed V-Neck Sweater",
+            "Chic Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Printed Blouse",
+            "Skinny Jeans",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "printed"],
+        "social_trends": ["skinny jeans", "sneakers"],
+        "recommend_output":[
+            "Charming Printed Blouse",
+            "Classic Skinny Jeans",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Maxi Dress",
+            "Strappy Sandals",
+            "Layered Necklace"
+        ],
+        "user_data": ["boho", "maxi dress"],
+        "social_trends": ["strappy sandals", "layered necklace"],
+        "recommend_output":[
+            "Flowy Maxi Dress",
+            "Bohemian Strappy Sandals",
+            "Artistic Layered Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Turtleneck Sweater",
+            "Corduroy Pants",
+            "Chelsea Boots"
+        ],
+        "user_data": ["classic", "turtleneck"],
+        "social_trends": ["corduroy pants", "chelsea boots"],
+        "recommend_output":[
+            "Timeless Turtleneck Sweater",
+            "Sophisticated Corduroy Pants",
+            "Stylish Chelsea Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Top",
+            "Flared Jeans",
+            "Mules"
+        ],
+        "user_data": ["casual", "wrap top"],
+        "social_trends": ["flared jeans", "mules"],
+        "recommend_output":[
+            "Effortless Wrap Top",
+            "Trendy Flared Jeans",
+            "Chic Mules"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer Dress",
+            "Knee-High Boots",
+            "Statement Belt"
+        ],
+        "user_data": ["chic", "blazer dress"],
+        "social_trends": ["knee-high boots", "statement belt"],
+        "recommend_output":[
+            "Sleek Blazer Dress",
+            "Stylish Knee-High Boots",
+            "Statement Belt"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Graphic Tee",
+            "Wide-Leg Trousers",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "denim jacket"],
+        "social_trends": ["wide-leg trousers", "sneakers"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Unique Graphic Tee",
+            "Trendy Wide-Leg Trousers",
+            "Comfortable Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["romantic", "off-shoulder"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Cozy Off-Shoulder Sweater",
+            "Elegant Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Bomber Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["edgy", "bomber jacket"],
+        "social_trends": ["cargo pants", "chunky sneakers"],
+        "recommend_output":[
+            "Cool Bomber Jacket",
+            "Unique Graphic Tee",
+            "Edgy Cargo Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Dress",
+            "Heeled Sandals",
+            "Statement Earrings"
+        ],
+        "user_data": ["feminine", "ruffled"],
+        "social_trends": ["heeled sandals", "statement earrings"],
+        "recommend_output":[
+            "Charming Ruffled Dress",
+            "Elegant Heeled Sandals",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Crewneck Sweater",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["classic", "crewneck"],
+        "social_trends": ["cropped trousers", "oxford shoes"],
+        "recommend_output":[
+            "Timeless Crewneck Sweater",
+            "Sophisticated Cropped Trousers",
+            "Classic Oxford Shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Button-Up Shirt",
+            "A-Line Skirt",
+            "Loafers"
+        ],
+        "user_data": ["classic", "button-up"],
+        "social_trends": ["a-line skirt", "loafers"],
+        "recommend_output":[
+            "Crisp Button-Up Shirt",
+            "Elegant A-Line Skirt",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Sweater Dress",
+            "Thigh-High Boots",
+            "Chunky Scarf"
+        ],
+        "user_data": ["cozy", "sweater dress"],
+        "social_trends": ["thigh-high boots", "chunky scarf"],
+        "recommend_output":[
+            "Warm Sweater Dress",
+            "Stylish Thigh-High Boots",
+            "Chunky Scarf"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Jacket",
+            "Basic Tee",
+            "Distressed Jeans",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["distressed jeans", "combat boots"],
+        "recommend_output":[
+            "Cool Leather Jacket",
+            "Classic Basic Tee",
+            "Edgy Distressed Jeans",
+            "Bold Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "V-Neck Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["casual", "v-neck"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Relaxed V-Neck Sweater",
+            "Chic Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Printed Blouse",
+            "Skinny Jeans",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "printed"],
+        "social_trends": ["skinny jeans", "sneakers"],
+        "recommend_output":[
+            "Charming Printed Blouse",
+            "Classic Skinny Jeans",
+            "Casual Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Maxi Dress",
+            "Strappy Sandals",
+            "Layered Necklace"
+        ],
+        "user_data": ["boho", "maxi dress"],
+        "social_trends": ["strappy sandals", "layered necklace"],
+        "recommend_output":[
+            "Flowy Maxi Dress",
+            "Bohemian Strappy Sandals",
+            "Artistic Layered Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Turtleneck Sweater",
+            "Corduroy Pants",
+            "Chelsea Boots"
+        ],
+        "user_data": ["classic", "turtleneck"],
+        "social_trends": ["corduroy pants", "chelsea boots"],
+        "recommend_output":[
+            "Timeless Turtleneck Sweater",
+            "Sophisticated Corduroy Pants",
+            "Stylish Chelsea Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Top",
+            "Flared Jeans",
+            "Mules"
+        ],
+        "user_data": ["casual", "wrap top"],
+        "social_trends": ["flared jeans", "mules"],
+        "recommend_output":[
+            "Effortless Wrap Top",
+            "Trendy Flared Jeans",
+            "Chic Mules"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer Dress",
+            "Knee-High Boots",
+            "Statement Belt"
+        ],
+        "user_data": ["chic", "blazer dress"],
+        "social_trends": ["knee-high boots", "statement belt"],
+        "recommend_output":[
+            "Sleek Blazer Dress",
+            "Stylish Knee-High Boots",
+            "Statement Belt"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Jacket",
+            "Graphic Tee",
+            "Wide-Leg Trousers",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "denim jacket"],
+        "social_trends": ["wide-leg trousers", "sneakers"],
+        "recommend_output":[
+            "Classic Denim Jacket",
+            "Unique Graphic Tee",
+            "Trendy Wide-Leg Trousers",
+            "Comfortable Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Off-Shoulder Sweater",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["romantic", "off-shoulder"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Cozy Off-Shoulder Sweater",
+            "Elegant Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Bomber Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["edgy", "bomber jacket"],
+        "social_trends": ["cargo pants", "chunky sneakers"],
+        "recommend_output":[
+            "Cool Bomber Jacket",
+            "Unique Graphic Tee",
+            "Edgy Cargo Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Dress",
+            "Heeled Sandals",
+            "Statement Earrings"
+        ],
+        "user_data": ["feminine", "ruffled"],
+        "social_trends": ["heeled sandals", "statement earrings"],
+        "recommend_output":[
+            "Charming Ruffled Dress",
+            "Elegant Heeled Sandals",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Crewneck Sweater",
+            "Cropped Trousers",
+            "Oxford Shoes"
+        ],
+        "user_data": ["classic", "crewneck"],
+        "social_trends": ["cropped trousers", "oxford shoes"],
+        "recommend_output":[
+            "Timeless Crewneck Sweater",
+            "Sophisticated Cropped Trousers",
+            "Classic Oxford Shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Button-Up Shirt",
+            "A-Line Skirt",
+            "Loafers"
+        ],
+        "user_data": ["classic", "button-up"],
+        "social_trends": ["a-line skirt", "loafers"],
+        "recommend_output":[
+            "Crisp Button-Up Shirt",
+            "Elegant A-Line Skirt",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Silk Slip Dress",
+            "Leather Jacket",
+            "Ankle Boots"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["silk slip dress", "ankle boots"],
+        "recommend_output":[
+            "Versatile Silk Slip Dress",
+            "Iconic Leather Jacket",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cropped Blouse",
+            "Wide-Leg Trousers",
+            "Loafers"
+        ],
+        "user_data": ["classic", "wide-leg"],
+        "social_trends": ["cropped blouse", "loafers"],
+        "recommend_output":[
+            "Elegant Cropped Blouse",
+            "Sophisticated Wide-Leg Trousers",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Logo Tee",
+            "Denim Skirt",
+            "Sneakers"
+        ],
+        "user_data": ["casual", "logo tee"],
+        "social_trends": ["denim skirt", "sneakers"],
+        "recommend_output":[
+            "Signature Logo Tee",
+            "Chic Denim Skirt",
+            "Classic Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Midi Dress",
+            "Strappy Sandals",
+            "Layered Necklace"
+        ],
+        "user_data": ["elegant", "midi dress"],
+        "social_trends": ["strappy sandals", "layered necklace"],
+        "recommend_output":[
+            "Sophisticated Midi Dress",
+            "Stylish Strappy Sandals",
+            "Artistic Layered Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Trench Coat",
+            "Turtleneck Sweater",
+            "High-Waisted Trousers",
+            "Chelsea Boots"
+        ],
+        "user_data": ["classic", "trench coat"],
+        "social_trends": ["turtleneck sweater", "chelsea boots"],
+        "recommend_output":[
+            "Timeless Trench Coat",
+            "Classic Turtleneck Sweater",
+            "Polished High-Waisted Trousers",
+            "Stylish Chelsea Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Plaid Blazer",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["professional", "plaid blazer"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Sharp Plaid Blazer",
+            "Chic Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Boho Maxi Dress",
+            "Fringe Bag",
+            "Platform Sandals"
+        ],
+        "user_data": ["boho", "maxi dress"],
+        "social_trends": ["fringe bag", "platform sandals"],
+        "recommend_output":[
+            "Bohemian Maxi Dress",
+            "Statement Fringe Bag",
+            "Trendy Platform Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cashmere Sweater",
+            "Corduroy Pants",
+            "Loafers"
+        ],
+        "user_data": ["cozy", "cashmere"],
+        "social_trends": ["corduroy pants", "loafers"],
+        "recommend_output":[
+            "Luxurious Cashmere Sweater",
+            "Sophisticated Corduroy Pants",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Utility Jumpsuit",
+            "Combat Boots",
+            "Chunky Necklace"
+        ],
+        "user_data": ["edgy", "utility jumpsuit"],
+        "social_trends": ["combat boots", "chunky necklace"],
+        "recommend_output":[
+            "Functional Utility Jumpsuit",
+            "Bold Combat Boots",
+            "Statement Chunky Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Floral Dress",
+            "Espadrilles",
+            "Straw Hat"
+        ],
+        "user_data": ["romantic", "floral"],
+        "social_trends": ["espadrilles", "straw hat"],
+        "recommend_output":[
+            "Charming Floral Dress",
+            "Bohemian Espadrilles",
+            "Stylish Straw Hat"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Top",
+            "Paperbag Waist Pants",
+            "Block Heels"
+        ],
+        "user_data": ["feminine", "wrap top"],
+        "social_trends": ["paperbag waist pants", "block heels"],
+        "recommend_output":[
+            "Elegant Wrap Top",
+            "Trendy Paperbag Waist Pants",
+            "Chic Block Heels"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Logo Sweatshirt",
+            "Athleisure Leggings",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["sporty", "logo sweatshirt"],
+        "social_trends": ["athleisure leggings", "chunky sneakers"],
+        "recommend_output":[
+            "Comfy Logo Sweatshirt",
+            "Trendy Athleisure Leggings",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Faux Leather Pants",
+            "Biker Jacket",
+            "Ankle Boots"
+        ],
+        "user_data": ["edgy", "biker jacket"],
+        "social_trends": ["faux leather pants", "ankle boots"],
+        "recommend_output":[
+            "Sleek Faux Leather Pants",
+            "Iconic Biker Jacket",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Tailored Blouse",
+            "Wide-Leg Pants",
+            "Loafers"
+        ],
+        "user_data": ["professional", "tailored blouse"],
+        "social_trends": ["wide-leg pants", "loafers"],
+        "recommend_output":[
+            "Sophisticated Tailored Blouse",
+            "Chic Wide-Leg Pants",
+            "Classic Loafers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leopard Print Dress",
+            "Block Heels",
+            "Statement Earrings"
+        ],
+        "user_data": ["bold", "leopard print"],
+        "social_trends": ["block heels", "statement earrings"],
+        "recommend_output":[
+            "Striking Leopard Print Dress",
+            "Chic Block Heels",
+            "Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Distressed Denim Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "distressed denim"],
+        "social_trends": ["graphic tee", "cargo pants"],
+        "recommend_output":[
+            "Cool Distressed Denim Jacket",
+            "Unique Graphic Tee",
+            "Functional Cargo Pants",
+            "Bold Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Silk Slip Skirt",
+            "Satin Camisole",
+            "Strappy Sandals"
+        ],
+        "user_data": ["elegant", "silk"],
+        "social_trends": ["satin camisole", "strappy sandals"],
+        "recommend_output":[
+            "Luxurious Silk Slip Skirt",
+            "Chic Satin Camisole",
+            "Stylish Strappy Sandals"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Blazer Dress",
+            "Thigh-High Boots",
+            "Statement Belt"
+        ],
+        "user_data": ["chic", "blazer dress"],
+        "social_trends": ["thigh-high boots", "statement belt"],
+        "recommend_output":[
+            "Sleek Blazer Dress",
+            "Stylish Thigh-High Boots",
+            "Statement Belt"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cropped Sweater",
+            "Paperbag Waist Skirt",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["casual", "cropped sweater"],
+        "social_trends": ["paperbag waist skirt", "chunky sneakers"],
+        "recommend_output":[
+            "Cozy Cropped Sweater",
+            "Trendy Paperbag Waist Skirt",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Logo Hoodie",
+            "Athleisure Leggings",
+            "Sneakers"
+        ],
+        "user_data": ["sporty", "logo hoodie"],
+        "social_trends": ["athleisure leggings", "sneakers"],
+        "recommend_output":[
+            "Comfy Logo Hoodie",
+            "Trendy Athleisure Leggings",
+            "Classic Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Knit Sweater Dress",
+            "Over-the-Knee Boots",
+            "Statement Scarf"
+        ],
+        "user_data": ["cozy", "knit"],
+        "social_trends": ["over-the-knee boots", "statement scarf"],
+        "recommend_output":[
+            "Warm Knit Sweater Dress",
+            "Stylish Over-the-Knee Boots",
+            "Bold Statement Scarf"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Ruffled Blouse",
+            "Pleated Midi Skirt",
+            "Ankle Strap Heels"
+        ],
+        "user_data": ["feminine", "ruffled"],
+        "social_trends": ["pleated midi skirt", "ankle strap heels"],
+        "recommend_output":[
+            "Charming Ruffled Blouse",
+            "Elegant Pleated Midi Skirt",
+            "Stylish Ankle Strap Heels"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Camo Jacket",
+            "Graphic Tee",
+            "Cargo Pants",
+            "Combat Boots"
+        ],
+        "user_data": ["edgy", "camo jacket"],
+        "social_trends": ["graphic tee", "cargo pants"],
+        "recommend_output":[
+            "Cool Camo Jacket",
+            "Unique Graphic Tee",
+            "Functional Cargo Pants",
+            "Bold Combat Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Wrap Dress",
+            "Block Heels",
+            "Statement Earrings"
+        ],
+        "user_data": ["chic", "wrap dress"],
+        "social_trends": ["block heels", "statement earrings"],
+        "recommend_output":[
+            "Elegant Wrap Dress",
+            "Chic Block Heels",
+            "Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Denim Shirt",
+            "Leather Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["denim shirt", "ankle boots"],
+        "recommend_output":[
+            "Versatile Denim Shirt",
+            "Sleek Leather Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Striped Sweater",
+            "Cropped Flare Jeans",
+            "Mules"
+        ],
+        "user_data": ["casual", "striped sweater"],
+        "social_trends": ["cropped flare jeans", "mules"],
+        "recommend_output":[
+            "Cozy Striped Sweater",
+            "Trendy Cropped Flare Jeans",
+            "Chic Mules"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Maxi Kimono Dress",
+            "Strappy Sandals",
+            "Layered Necklace"
+        ],
+        "user_data": ["boho", "maxi dress"],
+        "social_trends": ["maxi kimono dress", "strappy sandals"],
+        "recommend_output":[
+            "Bohemian Maxi Kimono Dress",
+            "Bohemian Strappy Sandals",
+            "Artistic Layered Necklace"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Cashmere Turtleneck",
+            "Pleated Skirt",
+            "Ankle Boots"
+        ],
+        "user_data": ["elegant", "cashmere"],
+        "social_trends": ["pleated skirt", "ankle boots"],
+        "recommend_output":[
+            "Luxurious Cashmere Turtleneck",
+            "Chic Pleated Skirt",
+            "Stylish Ankle Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Leather Leggings",
+            "Biker Jacket",
+            "Platform Boots"
+        ],
+        "user_data": ["edgy", "leather"],
+        "social_trends": ["leather leggings", "platform boots"],
+        "recommend_output":[
+            "Sleek Leather Leggings",
+            "Iconic Biker Jacket",
+            "Statement Platform Boots"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Satin Slip Dress",
+            "Strappy Heels",
+            "Statement Earrings"
+        ],
+        "user_data": ["elegant", "satin"],
+        "social_trends": ["strappy heels", "statement earrings"],
+        "recommend_output":[
+            "Elegant Satin Slip Dress",
+            "Stylish Strappy Heels",
+            "Stunning Statement Earrings"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Classic White Shirt",
+            "Cigarette Pants",
+            "Oxford Shoes"
+        ],
+        "user_data": ["professional", "classic white shirt"],
+        "social_trends": ["cigarette pants", "oxford shoes"],
+        "recommend_output":[
+            "Timeless Classic White Shirt",
+            "Chic Cigarette Pants",
+            "Classic Oxford Shoes"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Logo Hoodie",
+            "Track Pants",
+            "Chunky Sneakers"
+        ],
+        "user_data": ["sporty", "logo hoodie"],
+        "social_trends": ["track pants", "chunky sneakers"],
+        "recommend_output":[
+            "Comfy Logo Hoodie",
+            "Trendy Track Pants",
+            "Statement Chunky Sneakers"
+        ]
+    },
+    {
+        "Input fashion outfits": [
+            "Pinstripe Blazer",
+            "Wide-Leg Trousers",
+            "Loafers"
+        ],
+        "user_data": ["professional", "pinstripe blazer"],
+        "social_trends": ["wide-leg trousers", "loafers"],
+        "recommend_output":[
+            "Polished Pinstripe Blazer",
+            "Chic Wide-Leg Trousers",
+            "Classic Loafers"
+        ]
+    }    
+
+]

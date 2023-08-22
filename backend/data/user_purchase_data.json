@@ -1,0 +1,12 @@
+[
+    {
+        "name": "John Doe",
+        "gender": "Male",
+        "age": 28,
+        "purchase_history": [
+            "https://www.flipkart.com/inkkr-solid-men-polo-neck-black-grey-t-shirt/p/itme21eeb990ae49?pid=TSHG6EFUZNYMYQFM&lid=LSTTSHG6EFUZNYMYQFM7M7R9G&marketplace=FLIPKART&q=black+tshirt+for+men&store=clo%2Fash%2Fank%2Fedy&srno=s_1_5&otracker=AS_QueryStore_OrganicAutoSuggest_1_9_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_9_na_na_ps&fm=organic&iid=ad143ec0-0121-4535-8370-4bac18a2c6b0.TSHG6EFUZNYMYQFM.SEARCH&ppt=None&ppn=None&ssid=8wam499x0w0000001691730655487&qH=26bb286b71c70c0d",
+            "https://www.flipkart.com/peter-england-checkered-single-breasted-formal-men-blazer/p/itmfff2b77e24632?pid=BZRG9MUDVDFHHDZA&lid=LSTBZRG9MUDVDFHHDZAHUSXYN&marketplace=FLIPKART&store=clo%2Fupk%2Ffj9%2Fqd3&srno=b_1_1&otracker=hp_rich_navigation_7_1.navigationCard.RICH_NAVIGATION_Fashion~Men%2527s%2BTop%2BWear~Men%2527s%2BBlazers_LGFIYK1098US&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_7_L2_view-all&fm=organic&iid=en_PYCVTGi75t7zuIIvOKQNRaNYD71Z3ckZ3d5snqi1GT4dYWQs01hbKCNfpfcBrQiCRYIhRRyiP0GG2qbm0zNwzg%3D%3D&ppt=browse&ppn=browse&ssid=kid38dljb40000001692085016890"
+        ]
+    }
+    
+]
