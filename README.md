@@ -4,8 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Pre-requisite:
+### `pip install -r requirements.txt`
+
+To start the server, in the project directory: 
+### `python backend/app.py`
+
 In the project directory, you can run:
 
+### `npm install`
+### `cd frontend/`
 ### `npm start`
 
 Runs the app in the development mode.\
