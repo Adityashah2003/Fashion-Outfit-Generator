@@ -33,6 +33,7 @@ function App() {
     setCartProducts([...cartProducts, productToMove]);
 
     // Remove the product from recommendedProducts
+    //updated
     const updatedRecommendedProducts = recommendedProducts.filter((_, i) => i !== index);
     setRecommendedProducts(updatedRecommendedProducts);
   };
